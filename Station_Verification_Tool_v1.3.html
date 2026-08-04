@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Station Verification Tool | Business of Weather</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+  :root{
+    --navy:#1F3864;
+    --navy-light:#2E5395;
+    --accent:#C55A11;
+    --bg:#F4F6F9;
+    --card:#FFFFFF;
+    --border:#D8DEE8;
+    --text:#1B1F27;
+    --muted:#5B6472;
+    --green:#2E7D46;
+    --red:#C0392B;
+    --grey:#8A93A3;
+    --amber:#B7791F;
+    --purple:#6B4FA0;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);}
+  header{background:var(--navy);color:#fff;padding:22px 28px;position:sticky;top:0;z-index:900;box-shadow:0 2px 6px rgba(0,0,0,.15);}
+  header h1{margin:0;font-size:20px;font-weight:600;}
+  header p{margin:6px 0 0;font-size:13px;color:#C9D6EC;}
+  .badge{display:inline-block;background:var(--accent);color:#fff;font-size:11px;font-weight:600;padding:2px 8px;border-radius:3px;margin-left:8px;vertical-align:middle;letter-spacing:.3px;}
+  .wrap{max-width:1320px;margin:0 auto;padding:20px 24px 60px;}
+  .grid{display:grid;grid-template-columns:360px 1fr;gap:20px;align-items:start;}
+  @media (max-width:1020px){.grid{grid-template-columns:1fr;}}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:16px 18px;margin-bottom:18px;}
+  .card h2{font-size:14px;margin:0 0 10px;color:var(--navy);font-weight:600;text-transform:uppercase;letter-spacing:.4px;}
+  .card h3{font-size:13px;margin:14px 0 8px;color:var(--navy);font-weight:600;}
+  label{display:block;font-size:12px;color:var(--muted);margin-bottom:4px;font-weight:500;}
+  input[type=text],input[type=number],input[type=date],select,textarea{
+    width:100%;padding:6px 8px;border:1px solid var(--border);border-radius:4px;font-size:13px;font-family:inherit;background:#fff;color:var(--text);
+  }
+  textarea{resize:vertical;}
+  button{background:var(--navy);color:#fff;border:none;border-radius:4px;padding:7px 14px;font-size:12.5px;font-weight:600;cursor:pointer;}
+  button:hover{background:var(--navy-light);}
+  button.secondary{background:#fff;color:var(--navy);border:1px solid var(--navy);}
+  button.secondary:hover{background:#EEF2F8;}
+  button.danger{background:#fff;color:var(--red);border:1px solid var(--red);}
+  button:disabled{opacity:0.45;cursor:not-allowed;}
+  .btnrow{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;}
+  .field{margin-bottom:10px;}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  .note{background:#FFF6E5;border:1px solid #F0D28A;border-radius:5px;padding:8px 10px;font-size:12px;color:#6B4E00;margin-top:10px;}
+  .note.verified{background:#E9F5EC;border:1px solid #A9D7B6;color:#1E5A34;}
+  input[type=file]{width:100%;font-size:12px;border:1px solid var(--border);border-radius:4px;padding:5px;background:#fff;}
+  .small{font-size:11px;color:var(--muted);}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:10px 0;}
+  .stat{background:#EEF2F8;border-radius:6px;padding:10px 12px;}
+  .stat .n{font-size:20px;font-weight:700;color:var(--navy);}
+  .stat .l{font-size:11px;color:var(--muted);margin-top:2px;}
+  .listpanel{max-height:640px;overflow-y:auto;border:1px solid var(--border);border-radius:6px;}
+  .listrow{padding:8px 10px;border-bottom:1px solid var(--border);cursor:pointer;font-size:12.5px;display:flex;align-items:center;gap:8px;}
+  .listrow:hover{background:#F4F6F9;}
+  .listrow.selected{background:#E6F1FB;}
+  .listrow .nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .vbadge{display:inline-block;font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px;text-transform:uppercase;letter-spacing:.3px;white-space:nowrap;}
+  .vbadge.unreviewed{background:#E9EAEC;color:#5B6472;}
+  .vbadge.confirmed{background:#E1F2E6;color:#1E5A34;}
+  .vbadge.corrected{background:#FCEFD8;color:#7A4E00;}
+  .vbadge.not_found{background:#FBE2E1;color:#8C2A22;}
+  .vbadge.duplicate{background:#ECE5F6;color:#4A3676;}
+  #detailPanel{min-height:200px;}
+  #detailMap{height:220px;border-radius:6px;border:1px solid var(--border);margin-top:10px;}
+  .kv{font-size:12.5px;line-height:1.9;}
+  .kv b{color:var(--navy);}
+  .radiogroup{display:flex;flex-wrap:wrap;gap:10px;margin-top:4px;}
+  .radiogroup label{display:flex;align-items:center;gap:5px;font-size:12.5px;color:var(--text);font-weight:400;margin:0;cursor:pointer;}
+  .radiogroup input{width:auto;margin:0;}
+  .placeholder-msg{padding:40px 20px;text-align:center;color:var(--muted);font-size:13px;}
+  footer{max-width:1320px;margin:0 auto;padding:0 24px 40px;font-size:11.5px;color:var(--muted);}
+  .checkrow{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:6px;}
+  .checkrow label{display:flex;align-items:center;gap:5px;font-size:12px;color:var(--text);font-weight:400;margin:0;cursor:pointer;}
+  .checkrow input[type=checkbox]{width:auto;margin:0;}
+  .dot{display:inline-block;width:9px;height:9px;border-radius:50%;vertical-align:middle;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Station Verification Tool <span class="badge">DEMO</span></h1>
+  <p>Business of Weather &middot; agency review workflow for observing-station inventories &middot; companion to the IOS GIS Coverage &amp; Gap Analysis Tool</p>
+</header>
+
+<div class="wrap">
+
+  <div class="note" style="margin-bottom:18px;">
+    Purpose: send this file to the met service, hydrological service, or other agency that owns the station network. They open it in a browser (no install, no account), go through the list confirming, correcting, or flagging each station, add any stations we haven't identified, then export a reviewed CSV and send it back. Everything runs locally in the browser — no data is uploaded anywhere. It only works with a list you import; it does not come with any station data preloaded.
+  </div>
+
+  <div class="card">
+    <h2>1. Reviewer information</h2>
+    <div class="row2">
+      <div class="field"><label>Your name</label><input type="text" id="revName" placeholder="Full name"></div>
+      <div class="field"><label>Agency / organisation</label><input type="text" id="revAgency" placeholder="e.g. Meteorological Service"></div>
+    </div>
+    <div class="row2">
+      <div class="field"><label>Network / country being reviewed</label><input type="text" id="revNetwork" placeholder="e.g. Jamaica"></div>
+      <div class="field"><label>Review date</label><input type="date" id="revDate"></div>
+    </div>
+    <p class="small">Recorded once and stamped on every row when you export — you don't need to re-enter it per station.</p>
+  </div>
+
+  <div class="card">
+    <h2>2. Import station list to review</h2>
+    <div class="field">
+      <label>Import a CSV (OSCAR/Surface export, or a Business of Weather GIS tool export)</label>
+      <input type="file" id="fileInput" accept=".csv" onchange="handleFile(event)">
+      <p class="small" style="margin:4px 0 0;">Accepts a direct "Station Search Results" export from oscar.wmo.int, the standard OSCAR/Surface export columns (Name, WIGOS ID, Type, Elevation (m), Status, GBON, Latitude, Longitude, OSCAR URL), or the simplified export from the GIS Coverage &amp; Gap Analysis Tool (name, lat, lon, class, variable, status, ...). Column names are matched automatically.</p>
+    </div>
+    <div class="field">
+      <label>Review only these statuses</label>
+      <div id="statusFilters" class="checkrow"></div>
+      <p class="small" style="margin-top:4px;">Unchecked statuses are dropped from the list, the progress counts, and the export — by default only Operational stations are in scope for review. Nothing is deleted from the source file; re-check a status to bring it back.</p>
+    </div>
+    <div class="btnrow">
+      <button class="secondary" onclick="exportReviewCsv()" id="exportBtn" disabled>Export reviewed CSV</button>
+      <button class="secondary" onclick="exportSummaryTxt()" id="exportSummaryBtn" disabled>Export summary (.txt)</button>
+    </div>
+  </div>
+
+  <div class="card" id="statsCard" style="display:none;">
+    <h2>3. Review progress</h2>
+    <div class="stats">
+      <div class="stat"><div class="n" id="statTotal">0</div><div class="l">in scope for review</div></div>
+      <div class="stat"><div class="n" id="statHidden">0</div><div class="l">filtered out (by status)</div></div>
+      <div class="stat"><div class="n" id="statReviewed">0</div><div class="l">reviewed</div></div>
+      <div class="stat"><div class="n" id="statConfirmed">0</div><div class="l">confirmed</div></div>
+      <div class="stat"><div class="n" id="statCorrected">0</div><div class="l">corrected</div></div>
+      <div class="stat"><div class="n" id="statNotFound">0</div><div class="l">not found</div></div>
+      <div class="stat"><div class="n" id="statAdded">0</div><div class="l">added by you</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>4. Add a station we haven't identified</h2>
+    <p class="small" style="margin-top:0;">Know of a station that isn't in the imported list at all? Add it here — it goes into the export flagged as reviewer-added.</p>
+    <div class="row2">
+      <input type="text" id="addName" placeholder="Station name">
+      <select id="addType">
+        <option>Multi-parameter (AWS)</option>
+        <option>Rainfall</option>
+        <option>Temperature</option>
+        <option>Wind</option>
+        <option>Humidity</option>
+        <option>River level</option>
+        <option>Upper-air / Radiosonde</option>
+        <option>Weather radar</option>
+      </select>
+    </div>
+    <div class="row2" style="margin-top:6px;">
+      <input type="number" id="addLat" placeholder="Latitude" step="0.0001">
+      <input type="number" id="addLon" placeholder="Longitude" step="0.0001">
+    </div>
+    <div class="row2" style="margin-top:6px;">
+      <select id="addStatus">
+        <option value="operational">Operational</option>
+        <option value="degraded">Degraded</option>
+        <option value="nonoperational">Non-operational / Closed</option>
+        <option value="unknown">Unknown</option>
+      </select>
+      <input type="text" id="addNotes" placeholder="Notes (optional)">
+    </div>
+    <div class="btnrow"><button onclick="addReviewerStation()">Add station</button></div>
+  </div>
+
+  <div class="grid">
+    <div class="card" style="padding:10px;">
+      <div style="padding:6px 8px 10px;"><label style="margin:0;">Station list <span id="listCount" class="small"></span></label></div>
+      <div class="listpanel" id="listPanel">
+        <div class="placeholder-msg">Import a CSV above to begin.</div>
+      </div>
+    </div>
+
+    <div class="card" id="detailPanel">
+      <h2>Review this station</h2>
+      <div class="placeholder-msg">Select a station from the list to review it.</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <details>
+      <summary>How this works</summary>
+      <p><strong>Purpose.</strong> This tool supports Phase 4 (Observing-System Inventory) of the IOS Gap Analysis methodology by giving the national agency a direct way to confirm, correct, or flag the station records we've assembled from secondary sources (like WMO OSCAR/Surface) — and to tell us about stations that aren't in those sources at all.</p>
+      <p><strong>Verdicts.</strong> Confirmed = the record is accurate as shown. Corrected = the station exists but one or more fields were wrong (edit the corrected fields that appear). Not found = you could not confirm this station exists or is where the record says. Duplicate = this record is the same physical station as another one in the list.</p>
+      <p><strong>What happens to your export.</strong> The exported CSV contains the original record plus your verdict, any corrections, your notes, and the reviewer/date you entered above. Business of Weather re-imports this into the GIS Coverage &amp; Gap Analysis Tool to update the working station inventory — nothing is auto-published anywhere.</p>
+      <p><strong>Nothing leaves your computer.</strong> This page does not call any server. The only way data moves is if you choose to export a file and send it on yourself.</p>
+      <p><strong>Status filter.</strong> By default only Operational stations are in scope for review, so reviewers aren't asked to verify stations already known to be closed. Everything imported is kept in memory — checking a status back on brings its stations back into the list, progress counts, and export.</p>
+    </details>
+  </div>
+</div>
+
+<footer>
+  Business of Weather &middot; internal demonstration build, prepared to support the CIMH IOS Gap Analysis proposal (RFP-CLIMSA.EWISACT-RFP22-5.3.1c). Not a validated engineering tool; verify all outputs before use in client deliverables.
+</footer>
+
+<script>
+let allStations = [];
+let selectedStation = null;
+let detailMap = null, detailMarker = null;
+const STATUS_LABELS = {operational:'Operational', degraded:'Degraded', nonoperational:'Non-operational / Closed', unknown:'Unknown'};
+const VERDICT_LABELS = {unreviewed:'Unreviewed', confirmed:'Confirmed', corrected:'Corrected', not_found:'Not found', duplicate:'Duplicate'};
+let statusVisibility = {operational:true, degraded:false, nonoperational:false, unknown:false};
+
+function visibleStations(){
+  return allStations.filter(s => statusVisibility[s.status]);
+}
+
+function renderStatusFilters(){
+  const container = document.getElementById('statusFilters');
+  if(!container) return;
+  container.innerHTML = '';
+  Object.keys(STATUS_LABELS).forEach(key=>{
+    const id = 'statusChk_' + key;
+    const label = document.createElement('label');
+    label.innerHTML = `<input type="checkbox" id="${id}" ${statusVisibility[key] ? 'checked' : ''}><span class="dot" style="background:${{operational:'#2E7D46',degraded:'#B7791F',nonoperational:'#C0392B',unknown:'#8A93A3'}[key]}"></span>${STATUS_LABELS[key]}`;
+    container.appendChild(label);
+    document.getElementById(id).addEventListener('change', (e)=>{
+      statusVisibility[key] = e.target.checked;
+      if(selectedStation && !statusVisibility[selectedStation.status]) selectedStation = null;
+      renderList();
+      renderDetail();
+      renderStats();
+    });
+  });
+}
+
+function escapeHtml(t){
+  const d = document.createElement('div');
+  d.textContent = (t===undefined || t===null) ? '' : String(t);
+  return d.innerHTML;
+}
+
+function parseCsvLine(line){
+  const out = [];
+  let cur = '', inQuotes = false;
+  for(let i=0;i<line.length;i++){
+    const c = line[i];
+    if(inQuotes){
+      if(c === '"'){
+        if(line[i+1] === '"'){ cur += '"'; i++; } else { inQuotes = false; }
+      } else { cur += c; }
+    } else {
+      if(c === '"') inQuotes = true;
+      else if(c === ','){ out.push(cur); cur=''; }
+      else cur += c;
+    }
+  }
+  out.push(cur);
+  return out.map(s=>s.trim());
+}
+
+function parseFlexibleCsv(text){
+  const lines = text.split(/\r?\n/).filter(l=>l.trim().length>0);
+  if(lines.length < 2) return [];
+  const header = parseCsvLine(lines[0]).map(h=>h.toLowerCase());
+  const idx = (...names)=>{
+    for(const n of names){ const i = header.indexOf(n); if(i>=0) return i; }
+    return -1;
+  };
+  // Supports our own simplified export, the standard OSCAR/Surface field names, and
+  // a raw, direct oscar.wmo.int "Station Search Results" export, whose column names
+  // differ further still (e.g. "Station" not "Name", "Assessed reporting status" not
+  // "Status", GBON embedded in a "Programs/Network affiliation" field).
+  const iName = idx('name','station'), iLat = idx('latitude','lat'), iLon = idx('longitude','lon'),
+        iType = idx('type','variable','station type'), iStatus = idx('status','assessed reporting status','declared reporting status'), iClass = idx('class'),
+        iWigos = idx('wigos id','wigosid','wigos station identifier(s)'), iElev = idx('elevation (m)','elevation_m','elevation'),
+        iGbon = idx('gbon'), iUrl = idx('oscar url','oscarurl','station url'),
+        iProg = idx('programs/network affiliation');
+  if(iLat<0 || iLon<0 || iName<0){ alert('CSV missing required columns (Name/Station, Latitude/Lat, Longitude/Lon).'); return []; }
+  const records = [];
+  for(let i=1;i<lines.length;i++){
+    const parts = parseCsvLine(lines[i]);
+    const lat = parseFloat(parts[iLat]), lon = parseFloat(parts[iLon]);
+    if(isNaN(lat) || isNaN(lon)) continue;
+    const rawStatus = iStatus>=0 ? parts[iStatus] : '';
+    let gbon = iGbon>=0 ? parts[iGbon] : '';
+    if(!gbon && iProg>=0 && parts[iProg]){
+      const m = parts[iProg].match(/GBON\s*:\s*([A-Za-z ]+)/i);
+      if(m) gbon = m[1].trim();
+    }
+    records.push({
+      name: parts[iName] || ('Station ' + i),
+      lat, lon,
+      type: iType>=0 ? parts[iType] : '',
+      status: normalizeStatus(rawStatus),
+      statusRaw: rawStatus,
+      cls: iClass>=0 ? parts[iClass] : '',
+      wigosId: iWigos>=0 ? parts[iWigos] : '',
+      elev: iElev>=0 ? parts[iElev] : '',
+      gbon,
+      url: iUrl>=0 ? parts[iUrl] : '',
+      verdict: 'unreviewed',
+      correctedName: '', correctedLat: '', correctedLon: '', correctedStatus: '',
+      notes: '',
+      addedByReviewer: false
+    });
+  }
+  return records;
+}
+
+function normalizeStatus(raw){
+  const s = (raw||'').toLowerCase();
+  if(s==='operational') return 'operational';
+  if(s==='degraded' || s==='partly operational') return 'degraded';
+  if(s==='closed' || s==='nonoperational' || s==='non-operational') return 'nonoperational';
+  return 'unknown';
+}
+
+function handleFile(event){
+  const file = event.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = function(e){
+    const records = parseFlexibleCsv(e.target.result);
+    if(records.length===0){ alert('No valid station rows found in file.'); return; }
+    allStations = records;
+    selectedStation = null;
+    document.getElementById('statsCard').style.display = '';
+    document.getElementById('exportBtn').disabled = false;
+    document.getElementById('exportSummaryBtn').disabled = false;
+    renderList();
+    renderDetail();
+    renderStats();
+  };
+  reader.readAsText(file);
+  event.target.value = '';
+}
+
+function initDetailMap(){
+  detailMap = L.map('detailMap');
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18, attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(detailMap);
+}
+
+function renderList(){
+  const panel = document.getElementById('listPanel');
+  const visible = visibleStations();
+  document.getElementById('listCount').textContent = allStations.length ? `(${visible.length} of ${allStations.length})` : '';
+  if(allStations.length===0){
+    panel.innerHTML = '<div class="placeholder-msg">Import a CSV above to begin.</div>';
+    return;
+  }
+  if(visible.length===0){
+    panel.innerHTML = '<div class="placeholder-msg">All stations are filtered out by the status checkboxes above — check a status to see stations here.</div>';
+    return;
+  }
+  panel.innerHTML = '';
+  visible.forEach(s=>{
+    const row = document.createElement('div');
+    row.className = 'listrow' + (s===selectedStation ? ' selected' : '');
+    row.innerHTML = `<span class="nm">${escapeHtml(s.name)}</span><span class="vbadge ${s.verdict}">${VERDICT_LABELS[s.verdict]}</span>`;
+    row.addEventListener('click', ()=>{ selectedStation = s; renderList(); renderDetail(); });
+    panel.appendChild(row);
+  });
+}
+
+function renderDetail(){
+  const panel = document.getElementById('detailPanel');
+  if(detailMap){ detailMap.remove(); detailMap = null; detailMarker = null; }
+  if(!selectedStation){
+    panel.innerHTML = '<h2>Review this station</h2><div class="placeholder-msg">Select a station from the list to review it.</div>';
+    return;
+  }
+  const s = selectedStation;
+  panel.innerHTML = `
+    <h2>Review this station</h2>
+    <div class="kv">
+      <b>Name:</b> ${escapeHtml(s.name)}<br>
+      <b>Coordinates:</b> ${s.lat.toFixed(4)}, ${s.lon.toFixed(4)}<br>
+      <b>Type:</b> ${escapeHtml(s.type || '(not specified)')}<br>
+      <b>Status on file:</b> ${escapeHtml(s.statusRaw || STATUS_LABELS[s.status])}<br>
+      ${s.wigosId ? `<b>WIGOS ID:</b> ${escapeHtml(s.wigosId)}<br>` : ''}
+      ${s.elev ? `<b>Elevation:</b> ${escapeHtml(String(s.elev))} m<br>` : ''}
+      ${s.addedByReviewer ? `<b>Source:</b> added by reviewer<br>` : ''}
+      ${s.url ? `<b><a href="${s.url}" target="_blank" rel="noopener">OSCAR/Surface record</a></b><br>` : ''}
+    </div>
+    <div id="detailMap"></div>
+
+    <h3>Your verdict</h3>
+    <div class="radiogroup" id="verdictGroup">
+      ${Object.keys(VERDICT_LABELS).filter(v=>v!=='unreviewed').map(v=>`
+        <label><input type="radio" name="verdict" value="${v}" ${s.verdict===v?'checked':''}> ${VERDICT_LABELS[v]}</label>
+      `).join('')}
+    </div>
+
+    <div id="correctionFields" style="display:${s.verdict==='corrected' ? 'block':'none'};margin-top:10px;">
+      <h3>Corrected values (leave blank to keep the original)</h3>
+      <div class="row2">
+        <div class="field"><label>Corrected name</label><input type="text" id="corrName" value="${escapeHtml(s.correctedName)}" placeholder="${escapeHtml(s.name)}"></div>
+        <div class="field"><label>Corrected status</label>
+          <select id="corrStatus">
+            <option value="">(keep as on file)</option>
+            <option value="operational" ${s.correctedStatus==='operational'?'selected':''}>Operational</option>
+            <option value="degraded" ${s.correctedStatus==='degraded'?'selected':''}>Degraded</option>
+            <option value="nonoperational" ${s.correctedStatus==='nonoperational'?'selected':''}>Non-operational / Closed</option>
+            <option value="unknown" ${s.correctedStatus==='unknown'?'selected':''}>Unknown</option>
+          </select>
+        </div>
+      </div>
+      <div class="row2" style="margin-top:6px;">
+        <div class="field"><label>Corrected latitude</label><input type="number" step="0.0001" id="corrLat" value="${s.correctedLat}" placeholder="${s.lat}"></div>
+        <div class="field"><label>Corrected longitude</label><input type="number" step="0.0001" id="corrLon" value="${s.correctedLon}" placeholder="${s.lon}"></div>
+      </div>
+    </div>
+
+    <div class="field" style="margin-top:10px;">
+      <label>Notes</label>
+      <textarea id="notesField" rows="3" placeholder="Anything about this station worth flagging">${escapeHtml(s.notes)}</textarea>
+    </div>
+
+    <div class="btnrow">
+      <button onclick="saveDetail()">Save</button>
+      <button class="danger" onclick="removeStationRow()">Remove from list</button>
+    </div>
+  `;
+
+  document.querySelectorAll('#verdictGroup input[type=radio]').forEach(r=>{
+    r.addEventListener('change', ()=>{
+      document.getElementById('correctionFields').style.display = (r.value==='corrected') ? 'block' : 'none';
+    });
+  });
+
+  initDetailMap();
+  setTimeout(()=>{
+    detailMap.invalidateSize();
+    detailMap.setView([s.lat, s.lon], 12);
+    if(detailMarker) detailMap.removeLayer(detailMarker);
+    detailMarker = L.marker([s.lat, s.lon]).addTo(detailMap).bindPopup(escapeHtml(s.name));
+  }, 50);
+}
+
+function saveDetail(){
+  if(!selectedStation) return;
+  const s = selectedStation;
+  const checked = document.querySelector('#verdictGroup input[type=radio]:checked');
+  s.verdict = checked ? checked.value : 'unreviewed';
+  s.correctedName = document.getElementById('corrName') ? document.getElementById('corrName').value.trim() : '';
+  s.correctedStatus = document.getElementById('corrStatus') ? document.getElementById('corrStatus').value : '';
+  const latVal = document.getElementById('corrLat') ? document.getElementById('corrLat').value : '';
+  const lonVal = document.getElementById('corrLon') ? document.getElementById('corrLon').value : '';
+  s.correctedLat = latVal;
+  s.correctedLon = lonVal;
+  s.notes = document.getElementById('notesField').value.trim();
+  renderList();
+  renderStats();
+}
+
+function removeStationRow(){
+  if(!selectedStation) return;
+  if(!confirm('Remove this station from the review list? This does not affect any original source file.')) return;
+  const idx = allStations.indexOf(selectedStation);
+  if(idx>=0) allStations.splice(idx,1);
+  selectedStation = null;
+  renderList();
+  renderDetail();
+  renderStats();
+}
+
+function addReviewerStation(){
+  const name = document.getElementById('addName').value.trim();
+  const lat = parseFloat(document.getElementById('addLat').value);
+  const lon = parseFloat(document.getElementById('addLon').value);
+  if(!name){ alert('Enter a station name.'); return; }
+  if(isNaN(lat) || isNaN(lon)){ alert('Enter a valid latitude and longitude.'); return; }
+  const status = document.getElementById('addStatus').value;
+  if(!statusVisibility[status] && !confirm(`You've set status to "${STATUS_LABELS[status]}", which is currently unchecked in "Review only these statuses" above — this station will be added but won't show in the list until you check that status. Continue?`)) return;
+  allStations.push({
+    name, lat, lon,
+    type: document.getElementById('addType').value,
+    status,
+    statusRaw: STATUS_LABELS[status],
+    cls: '', wigosId: '', elev: '', gbon: '', url: '',
+    verdict: 'confirmed',
+    correctedName: '', correctedLat: '', correctedLon: '', correctedStatus: '',
+    notes: document.getElementById('addNotes').value.trim(),
+    addedByReviewer: true
+  });
+  document.getElementById('addName').value = '';
+  document.getElementById('addLat').value = '';
+  document.getElementById('addLon').value = '';
+  document.getElementById('addNotes').value = '';
+  document.getElementById('statsCard').style.display = '';
+  document.getElementById('exportBtn').disabled = false;
+  document.getElementById('exportSummaryBtn').disabled = false;
+  renderList();
+  renderStats();
+}
+
+function renderStats(){
+  const visible = visibleStations();
+  const total = visible.length;
+  const hidden = allStations.length - visible.length;
+  const reviewed = visible.filter(s=>s.verdict!=='unreviewed').length;
+  const confirmed = visible.filter(s=>s.verdict==='confirmed').length;
+  const corrected = visible.filter(s=>s.verdict==='corrected').length;
+  const notFound = visible.filter(s=>s.verdict==='not_found').length;
+  const added = visible.filter(s=>s.addedByReviewer).length;
+  document.getElementById('statTotal').textContent = total;
+  document.getElementById('statHidden').textContent = hidden;
+  document.getElementById('statReviewed').textContent = reviewed;
+  document.getElementById('statConfirmed').textContent = confirmed;
+  document.getElementById('statCorrected').textContent = corrected;
+  document.getElementById('statNotFound').textContent = notFound;
+  document.getElementById('statAdded').textContent = added;
+}
+
+function getReviewerInfo(){
+  return {
+    name: document.getElementById('revName').value.trim() || '(not entered)',
+    agency: document.getElementById('revAgency').value.trim() || '(not entered)',
+    network: document.getElementById('revNetwork').value.trim() || '(not entered)',
+    date: document.getElementById('revDate').value || '(not entered)'
+  };
+}
+
+function downloadText(filename, text){
+  const blob = new Blob([text], {type:'text/plain'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = filename;
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function exportReviewCsv(){
+  const visible = visibleStations();
+  if(visible.length===0){ alert('No stations in scope to export — check a status filter above.'); return; }
+  const rev = getReviewerInfo();
+  let csv = 'name,lat,lon,type,status_on_file,class,wigosId,elevation_m,gbon,oscarUrl,verdict,corrected_name,corrected_lat,corrected_lon,corrected_status,notes,added_by_reviewer,reviewer_name,reviewer_agency,network_reviewed,review_date\n';
+  const esc = (v)=> {
+    const t = (v===undefined || v===null) ? '' : String(v);
+    return t.includes(',') || t.includes('"') ? '"' + t.replace(/"/g,'""') + '"' : t;
+  };
+  visible.forEach(s=>{
+    csv += [
+      esc(s.name), s.lat, s.lon, esc(s.type), esc(s.statusRaw || STATUS_LABELS[s.status]), esc(s.cls),
+      esc(s.wigosId), esc(s.elev), esc(s.gbon), esc(s.url),
+      esc(s.verdict), esc(s.correctedName), esc(s.correctedLat), esc(s.correctedLon), esc(s.correctedStatus),
+      esc(s.notes), s.addedByReviewer ? 'yes' : 'no',
+      esc(rev.name), esc(rev.agency), esc(rev.network), esc(rev.date)
+    ].join(',') + '\n';
+  });
+  downloadText('station_review_export.csv', csv);
+}
+
+function exportSummaryTxt(){
+  const visible = visibleStations();
+  const rev = getReviewerInfo();
+  const includedStatuses = Object.keys(STATUS_LABELS).filter(k=>statusVisibility[k]).map(k=>STATUS_LABELS[k]).join(', ') || 'none';
+  const excludedStatuses = Object.keys(STATUS_LABELS).filter(k=>!statusVisibility[k]).map(k=>STATUS_LABELS[k]).join(', ') || 'none';
+  let txt = 'Station Verification — summary export\n';
+  txt += 'Generated: ' + new Date().toISOString() + '\n';
+  txt += `Reviewer: ${rev.name} (${rev.agency})\n`;
+  txt += `Network reviewed: ${rev.network}\n`;
+  txt += `Review date: ${rev.date}\n\n`;
+  txt += `Statuses in scope for this review: ${includedStatuses}\n`;
+  txt += `Statuses excluded (dropped from this export): ${excludedStatuses}\n`;
+  txt += `Total stations imported: ${allStations.length}\n`;
+  txt += `In scope: ${visible.length}\n`;
+  txt += `Reviewed: ${visible.filter(s=>s.verdict!=='unreviewed').length}\n`;
+  txt += `Confirmed: ${visible.filter(s=>s.verdict==='confirmed').length}\n`;
+  txt += `Corrected: ${visible.filter(s=>s.verdict==='corrected').length}\n`;
+  txt += `Not found: ${visible.filter(s=>s.verdict==='not_found').length}\n`;
+  txt += `Duplicate: ${visible.filter(s=>s.verdict==='duplicate').length}\n`;
+  txt += `Added by reviewer: ${visible.filter(s=>s.addedByReviewer).length}\n\n`;
+
+  const notFound = visible.filter(s=>s.verdict==='not_found');
+  if(notFound.length){
+    txt += 'Not found:\n';
+    notFound.forEach(s=>{ txt += `- ${s.name} (${s.lat}, ${s.lon})${s.notes ? ' — ' + s.notes : ''}\n`; });
+    txt += '\n';
+  }
+  const corrected = visible.filter(s=>s.verdict==='corrected');
+  if(corrected.length){
+    txt += 'Corrected:\n';
+    corrected.forEach(s=>{
+      const changes = [];
+      if(s.correctedName) changes.push(`name -> ${s.correctedName}`);
+      if(s.correctedLat) changes.push(`lat -> ${s.correctedLat}`);
+      if(s.correctedLon) changes.push(`lon -> ${s.correctedLon}`);
+      if(s.correctedStatus) changes.push(`status -> ${STATUS_LABELS[s.correctedStatus]||s.correctedStatus}`);
+      txt += `- ${s.name}: ${changes.join(', ') || '(see notes)'}${s.notes ? ' — ' + s.notes : ''}\n`;
+    });
+    txt += '\n';
+  }
+  const added = visible.filter(s=>s.addedByReviewer);
+  if(added.length){
+    txt += 'Added by reviewer:\n';
+    added.forEach(s=>{ txt += `- ${s.name} (${s.lat}, ${s.lon}), ${s.type}, ${STATUS_LABELS[s.status]||s.status}${s.notes ? ' — ' + s.notes : ''}\n`; });
+  }
+  downloadText('station_review_summary.txt', txt);
+}
+
+document.getElementById('revDate').value = new Date().toISOString().slice(0,10);
+renderStatusFilters();
+</script>
+
+</body>
+</html>
