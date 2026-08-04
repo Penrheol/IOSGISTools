@@ -1,0 +1,3 @@
+Name,WIGOS ID,Type,Elevation (m),Status,GBON,Latitude,Longitude,OSCAR URL
+CANEFIELD AIRPORT,0-20000-0-78906,Surface AWS,5,Operational,Yes,15.3333333333,-61.3833333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/11112
+MELVILLE HALL AIRPORT,0-20000-0-78905,Surface AWS,14,Operational,Yes,15.5333333333,-61.3,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/11111

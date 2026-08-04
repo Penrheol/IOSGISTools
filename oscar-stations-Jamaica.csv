@@ -1,0 +1,841 @@
+Name,WIGOS ID,Type,Elevation (m),Status,GBON,Latitude,Longitude,OSCAR URL
+Aberdeen,0-388-549-78397,Surface AWS,152,Closed,No,18.195,-77.701667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122142
+Abingdon,0-388-210-78397,Surface AWS,17,Closed,No,18.383319,-78.294558,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112112
+Above Rocks,0-388-430-78397,Surface AWS,305,Closed,No,18.099864,-76.87363,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118703
+Accompong,0-388-550-78397,Surface AWS,457,Closed,No,18.22416667,-77.756111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122143
+Acton (Hacton TRELAWNY),0-388-796-78397,Surface AWS,9,Closed,No,18.396852,-77.726953,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128058
+Adelphi,0-388-607-78397,Surface AWS,137,Closed,No,18.446131,-77.794239,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126543
+Aeolous,0-388-709-78397,Surface AWS,284,Closed,No,17.907353,-76.53555,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127376
+Agualta Vale,0-388-661-78397,Surface AWS,15,Closed,No,18.258189,-76.787439,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126789
+Airy Mount Dunrobin,0-388-294-78397,Surface AWS,686,Closed,No,18.0225,-77.520833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112909
+Albany,0-388-797-78397,Surface AWS,31,Closed,No,18.2625,-78.21305556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128059
+Albany,0-388-662-78397,Surface AWS,53,Closed,No,18.2975,-76.86388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126790
+Albert Town,0-388-755-78397,Surface AWS,579,Closed,No,18.29305556,-77.541667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127797
+Albion,0-388-382-78397,Surface AWS,671,Closed,No,18.3,-77.216667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113847
+Alcan EWARTON,0-388-431-78397,Surface AWS,259,Closed,No,18.174954,-77.089881,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118704
+Alcan Mandeville,0-388-295-78397,Surface AWS,671,Closed,No,18.048403,-77.513236,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112910
+Alexandria,0-388-383-78397,Surface AWS,650,Closed,No,18.30666667,-77.35277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113848
+Alligator Pond,0-388-296-78397,Surface AWS,9,Closed,No,17.86805556,-77.565,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112911
+Allside,0-388-756-78397,Surface AWS,686,Closed,No,18.26166667,-77.55972222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127811
+Amity Hall,0-388-710-78397,Surface AWS,109,Closed,No,17.96027778,-76.24111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127377
+Amity Hall,0-388-106-78397,Surface AWS,17,Unknown,No,17.80583333,-77.26,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111231
+Amity Hall,0-388-608-78397,Surface AWS,213,Closed,No,18.397484,-77.816544,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126544
+Amity Hall,0-388-432-78397,Surface AWS,12,Closed,No,17.92916667,-77.047778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118705
+Anchovy,0-388-609-78397,Surface AWS,229,Closed,No,18.40833333,-77.9375,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126545
+Angels,0-388-433-78397,Surface AWS,29,Closed,No,18.03305556,-76.979722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118707
+Annotto Bay,0-388-663-78397,Surface AWS,3,Closed,No,18.267875,-76.781245,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126791
+Appleton,0-388-61-78397,Surface AWS,122,Closed,No,18.166263,-77.719193,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110969
+Appleton 1,0-388-551-78397,Surface AWS,122,Closed,No,18.162569,-77.729068,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122144
+Appleton 2,0-388-552-78397,Surface AWS,137,Closed,No,18.181961,-77.708341,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122145
+Appleton Climo,0-388-553-78397,Surface AWS,122,Closed,No,18.162569,-77.729068,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122146
+Arcadia,0-388-757-78397,Surface AWS,243,Closed,No,18.44222222,-77.49805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127812
+Askenish,0-388-211-78397,Surface AWS,168,Closed,No,18.38,-78.14777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112113
+Auchtembeddie,0-388-297-78397,Surface AWS,316,Closed,No,18.213659,-77.624225,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112912
+Bachelor's  Hall,0-388-711-78397,Surface AWS,53,Closed,No,17.95138889,-76.31777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127378
+Balaclava PWD,0-388-554-78397,Surface AWS,244,Closed,No,18.167235,-77.648708,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122147
+Balcarres,0-388-344-78397,Surface AWS,213,Closed,No,18.15701,-76.704596,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113145
+Ballards Valley,0-388-664-78397,Surface AWS,69,Closed,No,18.3175,-76.896111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126792
+Bamboo,0-388-40-78397,Surface AWS,683,Closed,No,18.396944,-77.275556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110898
+Bamboo Avenue,0-388-243-78397,Surface AWS,146,Closed,No,18.01583333,-76.765278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112354
+Banbury,0-388-434-78397,Surface AWS,120,Closed,No,18.133593,-77.044381,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118708
+Barham,0-388-798-78397,Surface AWS,46,Closed,No,18.28611111,-78.11138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128060
+Barnett Estate,0-388-611-78397,Surface AWS,15,Closed,No,18.4625,-77.916111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126547
+Barretts Gap,0-388-712-78397,Surface AWS,420,Closed,No,17.972285,-76.363375,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127379
+Barton Isles,0-388-62-78397,Surface AWS,15,Closed,No,18.136087,-77.718352,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110970
+Bartons Isles,0-388-555-78397,Surface AWS,15,Closed,No,18.12638889,-77.74166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122149
+Bath,0-388-713-78397,Surface AWS,67,Closed,No,17.945799,-76.351525,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127380
+Battersea,0-388-298-78397,Surface AWS,577,Closed,No,18.053248,-77.498383,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112913
+Baulk,0-388-799-78397,Surface AWS,49,Closed,No,18.30833333,-78.113333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128061
+Beauchamps,0-388-107-78397,Surface AWS,42,Unknown,No,17.84083333,-77.31666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111232
+Beckford (New Yarmouth),0-388-108-78397,Surface AWS,670,Closed,No,17.91055556,-77.31388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111233
+Beckford Kraal,0-388-109-78397,Surface AWS,428,Closed,No,18.07833333,-77.30444444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111234
+Beeston Spring,0-388-800-78397,Surface AWS,366,Closed,No,18.14166667,-77.966667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128062
+Belfield BSE,0-388-612-78397,Surface AWS,137,Closed,No,18.44444444,-77.751667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126646
+Bellas Gate,0-388-435-78397,Surface AWS,610,Closed,No,18.04611111,-77.163889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118709
+Belle Air,0-388-384-78397,Surface AWS,79,Closed,No,18.445,-77.345833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113849
+Belle Plain,0-388-110-78397,Surface AWS,61,Unknown,No,17.98,-77.317222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111334
+Bellefield,0-388-613-78397,Surface AWS,28,Closed,No,18.44166667,-77.90777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126700
+Bellefield Farm,0-388-614-78397,Surface AWS,137,Closed,No,18.44448,-77.751383,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126736
+Bellefield House,0-388-615-78397,Surface AWS,15,Closed,No,18.438473,-77.751461,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126743
+Bellefield HSE,0-388-616-78397,Surface AWS,15,Closed,No,18.43888889,-77.918889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126744
+Belleisle,0-388-804-78397,Surface AWS,18,Closed,No,18.28444444,-78.17555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128124
+Bellevue,0-388-385-78397,Surface AWS,211,Closed,No,18.344175,-77.055489,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113850
+Belvedere,0-388-345-78397,Surface AWS,305,Closed,No,18.21111111,-76.706944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113146
+Belvedere,0-388-714-78397,Surface AWS,23,Closed,No,17.874625,-76.432431,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127381
+Belvedere,0-388-75-78397,Surface AWS,12,Closed,No,17.885313,-76.437936,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111018
+Benbow,0-388-436-78397,Surface AWS,610,Closed,No,18.231214,-77.009368,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118710
+Bernaddy,0-388-437-78397,Surface AWS,274,Closed,No,18.19833333,-77.048333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118711
+Bernard Lodge,0-388-50-78397,Surface AWS,17,Operational,No,17.970195,-76.93013,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110927
+Bernard Lodge (Met),0-388-438-78397,Surface AWS,23,Closed,No,17.971814,-76.934261,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118712
+Bethel Town,0-388-805-78397,Surface AWS,302,Closed,No,18.292024,-77.950429,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128125
+Bethlehem TC,0-388-63-78397,Surface AWS,667,Closed,No,17.968611,-77.696944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110971
+Bethlehem TC,0-388-556-78397,Surface AWS,640,Closed,No,17.969277,-77.696668,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122150
+Black Heath,0-388-806-78397,Surface AWS,31,Closed,No,18.28805556,-78.13166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128126
+Black River,0-388-557-78397,Surface AWS,3,Closed,No,18.02333333,-77.85555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122159
+Blackstonehenge,0-388-386-78397,Surface AWS,564,Closed,No,18.256328,-77.01741,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113851
+Blair Pen,0-388-439-78397,Surface AWS,32,Closed,No,17.97066,-76.953008,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118713
+Blenheim,0-388-212-78397,Surface AWS,0,Closed,No,18.41388889,-78.218056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112114
+Bloxburgh,0-388-244-78397,Surface AWS,1036,Closed,No,17.98333333,-76.658333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112362
+Blue Hole,0-388-213-78397,Surface AWS,9,Closed,No,18.44444444,-78.091667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112115
+Bluecastle,0-388-807-78397,Surface AWS,27,Closed,No,18.2725,-78.12305556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128127
+Bluefields,0-388-808-78397,Surface AWS,9,Closed,No,18.163705,-78.028584,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128129
+Bodles,0-388-51-78397,Surface AWS,36,Closed,No,17.929722,-77.134167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110928
+Bodles Agro Met,0-388-440-78397,Surface AWS,36,Closed,No,17.930279,-77.133951,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118714
+Bodles Rose Hall,0-388-441-78397,Surface AWS,37,Closed,No,17.939011,-77.140398,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118715
+Bog,0-388-442-78397,Surface AWS,34,Closed,No,17.98472222,-77.04611111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118716
+Bog,0-388-809-78397,Surface AWS,375,Closed,No,18.1503,-77.948747,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128130
+Bog,0-388-111-78397,Surface AWS,21,Closed,No,17.82444444,-77.239444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111335
+Bog Walk,0-388-443-78397,Surface AWS,70,Closed,No,18.11194444,-77.01333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118717
+Bogue,0-388-617-78397,Surface AWS,18,Closed,No,18.4375,-77.929167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126745
+Bogue Pye River,0-388-618-78397,Surface AWS,12,Closed,No,18.43756,-77.929327,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126746
+Bogue Shop,0-388-619-78397,Surface AWS,12,Closed,No,18.45972222,-77.92111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126747
+Bois Content,0-388-444-78397,Surface AWS,152,Closed,No,18.00555556,-77.15777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118723
+Bonitto Crescent,0-388-299-78397,Surface AWS,655,Closed,No,18.04861111,-77.506667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112914
+Borobridge,0-388-387-78397,Surface AWS,594,Closed,No,18.197273,-77.424982,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113852
+Boscobel,0-388-665-78397,Surface AWS,19,Closed,No,18.40444444,-76.96722222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126793
+Boscobel,0-388-346-78397,Surface AWS,15,Closed,No,18.402277,-76.975981,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113151
+Boundbrook,0-388-347-78397,Surface AWS,12,Closed,No,18.175,-76.46527778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113158
+Bowden Pen,0-388-715-78397,Surface AWS,15,Closed,No,17.88972222,-76.31527778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127382
+Braco,0-388-758-78397,Surface AWS,33,Closed,No,18.46805556,-77.49416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127813
+Braco,0-388-83-78397,Surface AWS,27,Closed,No,18.46777778,-77.49388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111034
+Braes River,0-388-558-78397,Surface AWS,12,Closed,No,18.07916667,-77.654167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122160
+Brainerd,0-388-666-78397,Surface AWS,305,Closed,No,18.190644,-76.894555,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126794
+Brandon Hill,0-388-245-78397,Surface AWS,426,Closed,No,18.15527778,-76.81861111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112363
+Brandon Hill,0-388-95-78397,Surface AWS,594,Closed,No,18.15,-77.251667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111081
+Breadfruit Tree,0-388-388-78397,Surface AWS,245,Closed,No,18.382922,-77.087045,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113853
+Bridge Pen,0-388-445-78397,Surface AWS,9,Closed,No,17.95277778,-77.039167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118728
+Bridge Pen #1,0-388-446-78397,Surface AWS,24,Closed,No,17.95805556,-77.03638889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118729
+Bridge Pen #2,0-388-447-78397,Surface AWS,19,Closed,No,17.95166667,-77.02194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118910
+Bridge Pen #3,0-388-448-78397,Surface AWS,19,Closed,No,17.95166667,-77.02194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/119012
+Bridgeport,0-388-449-78397,Surface AWS,8,Closed,No,17.955732,-76.887584,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/119031
+Brimmer Hall Estate,0-388-667-78397,Surface AWS,62,Closed,No,18.34527778,-76.92,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126795
+Brixton Hill,0-388-112-78397,Surface AWS,274,Closed,No,18.01638889,-77.32,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111336
+Bromley,0-388-389-78397,Surface AWS,457,Closed,No,18.31388889,-77.09333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113854
+Browns Hall,0-388-450-78397,Surface AWS,533,Closed,No,18.06055556,-77.131944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/119047
+Browns Hall PWD,0-388-451-78397,Surface AWS,244,Closed,No,18.05333333,-77.122222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/119070
+Browns Town,0-388-390-78397,Surface AWS,427,Closed,No,18.3875,-77.37,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113855
+Buff Bay,0-388-348-78397,Surface AWS,3,Closed,No,18.232118,-76.659172,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113170
+Building,0-388-113-78397,Surface AWS,18,Unknown,No,17.81666667,-77.283333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111337
+Bull Bay,0-388-246-78397,Surface AWS,12,Closed,No,17.937486,-76.669418,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112381
+Bull Head,0-388-1-AWS,Surface AWS,842,Operational,No,18.156897,-77.275492,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/109675
+Bull Head,0-388-810-78397,Surface AWS,132,Closed,No,18.320467,-78.165333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128134
+Bull Savannah,0-388-559-78397,Surface AWS,305,Closed,No,17.88073,-77.593861,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122161
+Bunker Hill Pantrepant,0-388-84-78397,Surface AWS,109,Closed,No,18.390852,-77.696437,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111035
+Burnt Ground,0-388-14-78397,Surface AWS,202,Operational,No,18.345556,-77.986667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110660
+Burnt Savannah,0-388-560-78397,Surface AWS,9,Closed,No,18.01388889,-77.76166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122173
+Bushy Park,0-388-115-78397,Surface AWS,229,Closed,No,18.00833333,-77.221667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111338
+Bybrook,0-388-452-78397,Surface AWS,76,Closed,No,18.10833333,-77.021111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/119082
+Bybrook,0-388-349-78397,Surface AWS,188,Unknown,No,18.1825,-76.64416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113173
+Cacoon Castle,0-388-214-78397,Surface AWS,365,Closed,No,18.40388889,-78.01138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112116
+Caenwood,0-388-350-78397,Surface AWS,12,Closed,No,18.20277778,-76.580556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113182
+Cambridge,0-388-620-78397,Surface AWS,183,Closed,No,18.30888889,-77.90666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126748
+Cambridge Estate,0-388-759-78397,Surface AWS,152,Closed,No,18.43333333,-77.596667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127814
+Camperdown Primary,0-388-16367-78763,Surface AWS,575,Operational,No,18.220515,-77.15716,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/173562
+Canaan,0-388-621-78397,Surface AWS,152,Closed,No,18.418117,-77.7694,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126749
+Carew Castle,0-388-453-78397,Surface AWS,305,Closed,No,18.13055556,-76.915278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/120029
+Carlisle Greenwich,0-388-116-78397,Surface AWS,12,Closed,No,17.793202,-77.27405,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111339
+Carron Hall,0-388-668-78397,Surface AWS,518,Closed,No,18.27222222,-76.947222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126796
+Carton,0-388-391-78397,Surface AWS,442,Closed,No,18.35444444,-77.19,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113856
+Casa Marantha,0-388-561-78397,Surface AWS,0,Closed,No,18.12583333,-77.74111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122177
+Cascade,0-388-215-78397,Surface AWS,365,Closed,No,18.395496,-78.10764,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112117
+Castleton Gdn,0-388-669-78397,Surface AWS,198,Closed,No,18.169571,-76.825156,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126797
+Caswell Hill NY,0-388-117-78397,Surface AWS,27,Closed,No,17.865793,-77.269529,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111340
+Catadupa,0-388-622-78397,Surface AWS,396,Closed,No,18.27833333,-77.875,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126750
+Catadupa BH FR,0-388-623-78397,Surface AWS,396,Closed,No,18.27833333,-77.876,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126751
+Catadupa PWD,0-388-624-78397,Surface AWS,335,Closed,No,18.28083333,-77.875833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126752
+Cavaliers,0-388-247-78397,Surface AWS,53,Closed,No,17.98444444,-76.785556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112382
+Cave Valley,0-388-392-78397,Surface AWS,582,Closed,No,18.22638889,-77.36638889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113857
+Cave Valley,0-388-216-78397,Surface AWS,33,Closed,No,18.33472222,-78.27027778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112118
+Caymanas Central,0-388-454-78397,Surface AWS,28,Closed,No,18.01888889,-76.90861111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121044
+Caymanas Nursery,0-388-455-78397,Surface AWS,24,Closed,No,18.01361111,-76.88833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121045
+Caymanas South,0-388-456-78397,Surface AWS,28,Closed,No,18.011167,-76.889318,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121046
+Cedar Grove,0-388-457-78397,Surface AWS,6,Closed,No,17.992296,-76.88306,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121047
+Cedar Valley,0-388-716-78397,Surface AWS,522,Closed,No,17.98777778,-76.57833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127443
+Cedar Valley,0-388-351-78397,Surface AWS,610,Closed,No,18.10569,-76.711433,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113191
+Cedar Valley 2,0-388-717-78397,Surface AWS,610,Closed,No,17.99305556,-76.59,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127444
+Cedar Valley PWD,0-388-718-78397,Surface AWS,607,Closed,No,17.990179,-76.590289,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127445
+Chapleton PWD,0-388-118-78397,Surface AWS,198,Unknown,No,18.08745111,-77.27641306,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111341
+Charlton,0-388-458-78397,Surface AWS,6,Closed,No,18.02055556,-76.910556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121048
+Charm Hole,0-388-459-78397,Surface AWS,377,Closed,No,18.14166667,-77.12972222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121049
+Chepstow,0-388-352-78397,Surface AWS,76,Closed,No,18.175,-76.629167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113256
+Chestervale,0-388-248-78397,Surface AWS,1220,Closed,No,18.079176,-76.680879,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112405
+Chippenham,0-388-460-78397,Surface AWS,15,Closed,No,17.998059,-76.936446,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121050
+Chippenham Pk,0-388-393-78397,Surface AWS,680,Closed,No,18.397597,-77.275379,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113858
+Chovey,0-388-670-78397,Surface AWS,20,Closed,No,18.248059,-76.809362,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126798
+Christiana,0-388-300-78397,Surface AWS,823,Closed,No,18.170981,-77.492256,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112915
+Cinchona Gardens,0-388-249-78397,Surface AWS,1493,Closed,No,18.06583333,-76.657222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112406
+Claremont,0-388-394-78397,Surface AWS,457,Closed,No,18.327165,-77.178439,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113859
+Clarendon College,0-388-2-CL0002,Surface AWS,275,Unknown,No,18.085959,-77.27002,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110473
+Clarendon Park,0-388-119-78397,Surface AWS,67,Closed,No,17.98055556,-77.366667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111342
+Clarks Town,0-388-760-78397,Surface AWS,206,Closed,No,18.417779,-77.542639,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127852
+Claverty Cottage,0-388-353-78397,Surface AWS,610,Closed,No,18.16833333,-76.640278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113257
+Clifton Hill Estates,0-388-719-78397,Surface AWS,76,Closed,No,17.90138889,-76.344444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127446
+Clifton Pen,0-388-250-78397,Surface AWS,15,Closed,No,17.99166667,-76.822222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112407
+Clinic,0-388-395-78397,Surface AWS,15,Closed,No,18.45444444,-77.259722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113860
+Cocoa Walk (Bois),0-388-461-78397,Surface AWS,152,Closed,No,18.004371,-77.137979,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121051
+Colbeck,0-388-52-78397,Surface AWS,55,Closed,No,17.95761,-77.135572,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110929
+Cole Gate,0-388-396-78397,Surface AWS,467,Closed,No,18.36305556,-77.0975,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113861
+Cole Gate,0-388-42-78397,Surface AWS,475,Closed,No,18.367879,-77.094771,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110919
+Coley Farm,0-388-720-78397,Surface AWS,213,Closed,No,17.949008,-76.521271,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127447
+Coley Pwd,0-388-721-78397,Surface AWS,122,Closed,No,17.94166667,-76.464444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127448
+Colonel's Ridge,0-388-120-78397,Surface AWS,579,Unknown,No,18.14247,-77.265462,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111343
+Comfort Castle,0-388-354-78397,Surface AWS,154,Closed,No,18.053969,-76.4138,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113258
+Comma Pen,0-388-64-78397,Surface AWS,260,Closed,No,17.921089,-77.592663,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110972
+Constant Spring,0-388-251-78397,Surface AWS,244,Closed,No,18.060969,-76.788858,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112408
+Constant Spring FP,0-388-252-78397,Surface AWS,244,Closed,No,18.06111111,-76.788889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112409
+Content,0-388-811-78397,Surface AWS,636,Closed,No,18.177044,-77.999973,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128135
+Cooks Gate,0-388-121-78397,Surface AWS,37,Closed,No,17.90833333,-77.279167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111344
+Coolavin MV,0-388-301-78397,Surface AWS,671,Closed,No,18.05972222,-77.501667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112916
+Coolshade,0-388-462-78397,Surface AWS,457,Closed,No,18.123418,-77.076285,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121052
+Coopers Hill,0-388-253-78397,Surface AWS,617,Closed,No,18.067385,-76.85007,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112410
+COOPERS HILL,0-20001-0-78397,Surface AWS,786,Operational,No,18.0666666667,-76.85,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/14116
+Corn Ground,0-388-463-78397,Surface AWS,373,Closed,No,18.1725,-77.14472222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121053
+Cornwall,0-388-625-78397,Surface AWS,191,Closed,No,18.49722222,-77.758333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126753
+Cornwall,0-388-812-78397,Surface AWS,40,Closed,No,18.25888889,-78.10388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128140
+Cottage,0-388-122-78397,Surface AWS,21,Unknown,No,17.82722222,-77.225556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111345
+Cotton Tree Gully,0-388-123-78397,Surface AWS,21,Closed,No,17.85027778,-77.24083333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111350
+Cousins Cove,0-388-217-78397,Surface AWS,18,Closed,No,18.41944444,-78.241667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112119
+Cow Park,0-388-464-78397,Surface AWS,15,Closed,No,17.99444444,-76.901389,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121054
+Craig Head,0-388-302-78397,Surface AWS,829,Closed,No,18.23305556,-77.55472222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112917
+Crawford,0-388-65-78397,Surface AWS,6,Operational,No,18.044955,-77.91005,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110973
+Crawford,0-388-562-78397,Surface AWS,8,Closed,No,18.045278,-77.91,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122178
+Crawle,0-388-465-78397,Surface AWS,6,Closed,No,18.01666667,-76.879444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121179
+Crofts Hill,0-388-96-78397,Surface AWS,494,Unknown,No,18.14305556,-77.20833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111082
+Crofts Hill PWD,0-388-124-78397,Surface AWS,488,Closed,No,18.13,-77.208333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111616
+Crooked River,0-388-125-78397,Surface AWS,274,Closed,No,18.13333333,-77.3125,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111617
+Cross Keys,0-388-29-78397,Surface AWS,590,Operational,No,17.89305556,-77.50305556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110713
+Cross Keys,0-388-303-78397,Surface AWS,625,Closed,No,17.897499,-77.504575,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112918
+DaCosta,0-388-126-78397,Surface AWS,12,Closed,No,17.798646,-77.232779,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111618
+Dallas,0-388-254-78397,Surface AWS,252,Closed,No,17.98666667,-76.70444444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112411
+Dam Head,0-388-466-78397,Surface AWS,44,Closed,No,18.04444444,-76.98083333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121180
+Darley,0-388-355-78397,Surface AWS,290,Closed,No,18.16055556,-76.506944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113259
+Darliston,0-388-813-78397,Surface AWS,427,Closed,No,18.23333333,-77.97388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128143
+Dawkins,0-388-467-78397,Surface AWS,6,Closed,No,18.009802,-76.912017,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121181
+Deeside,0-388-761-78397,Surface AWS,137,Closed,No,18.389757,-77.746704,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127980
+Devon,0-388-304-78397,Surface AWS,806,Closed,No,18.16444444,-77.51277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112922
+Dias,0-388-218-78397,Surface AWS,168,Closed,No,18.391864,-78.197222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112120
+Discovery Bay,0-388-103-78397,Surface AWS,31,Closed,No,18.455,-77.404444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111203
+Discovery Bay PWD,0-388-397-78397,Surface AWS,31,Closed,No,18.455128,-77.404519,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113862
+Discovery Bay UWI,0-388-398-78397,Surface AWS,10,Closed,No,18.46861111,-77.41583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113863
+Dover,0-388-672-78397,Surface AWS,31,Closed,No,18.258317,-76.705447,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126799
+Dover GI,0-388-673-78397,Surface AWS,9,Closed,No,18.2625,-76.705556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126800
+Dry River,0-388-128-78397,Surface AWS,46,Closed,No,17.87472222,-77.2525,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111619
+Duckenfield,0-388-76-78397,Surface AWS,48,Closed,No,17.922499,-76.255016,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111019
+Duckenfield,0-388-722-78397,Surface AWS,49,Closed,No,17.9226,-76.255527,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127449
+Dumfries,0-388-626-78397,Surface AWS,125,Closed,No,18.43027778,-77.76138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126754
+Duncans,0-388-762-78397,Surface AWS,137,Closed,No,18.467656,-77.536275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127981
+Dunkeld,0-388-305-78397,Surface AWS,488,Closed,No,18.1,-77.508333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112923
+Dunns River,0-388-43-78397,Surface AWS,65,Operational,No,18.295333,-77.277685,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110920
+Easington,0-388-723-78397,Surface AWS,91,Closed,No,17.92429,-76.588298,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127450
+East Albion,0-388-77-78397,Surface AWS,27,Closed,No,17.886725,-76.584742,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111020
+East Albion Nursery,0-388-724-78397,Surface AWS,27,Closed,No,17.88666667,-76.584722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127451
+East Polder,0-388-814-78397,Surface AWS,10,Closed,No,18.250015,-78.14093,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128147
+East Prospect,0-388-725-78397,Surface AWS,15,Closed,No,17.86722222,-76.348611,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127452
+Ebony Park,0-388-98-78397,Surface AWS,67,Unknown,No,17.95277778,-77.34666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111114
+Ecclesdown,0-388-34-78397,Surface AWS,228,Operational,No,18.05751333,-76.33579167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110886
+Ecclesdown,0-388-356-78397,Surface AWS,274,Closed,No,18.0575,-76.335833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113260
+Edwin Allen,0-388-13-78397,Surface AWS,358,Operational,No,18.15333,-77.372826,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110570
+Elderslie,0-388-563-78397,Surface AWS,451,Closed,No,18.23046,-77.802585,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122197
+Elim Farm,0-388-564-78397,Surface AWS,12,Closed,No,18.119916,-77.682066,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122206
+Eltham,0-388-468-78397,Surface AWS,46,Closed,No,18.00972222,-76.970833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121182
+Empire Nursery,0-388-255-78397,Surface AWS,649,Closed,No,18.02666667,-76.657778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112419
+Enfield,0-388-469-78397,Surface AWS,229,Closed,No,18.19305556,-76.99944444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121183
+Etingdon,0-388-763-78397,Surface AWS,284,Closed,No,18.44666667,-77.568056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127982
+Evergreen,0-388-306-78397,Surface AWS,214,Closed,No,18.17222222,-77.61416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112924
+Ewarton,0-388-470-78397,Surface AWS,259,Closed,No,18.175,-77.09,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121360
+Exchange,0-388-399-78397,Surface AWS,76,Closed,No,18.39888889,-77.069444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113864
+Exeter,0-388-129-78397,Surface AWS,38,Closed,No,17.83805556,-77.29916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111620
+Fair Prospect,0-388-357-78397,Surface AWS,49,Closed,No,18.1225,-76.32777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113261
+Fair Prospect_10m,0-388-35-78397,Surface AWS,49,Operational,No,18.1225,-76.327778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110887
+Fair Prospect_2m,0-388-36-78397,Surface AWS,49,Operational,No,18.120054,-76.322005,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110894
+Fairfield Pen,0-388-627-78397,Surface AWS,13,Closed,No,18.45333333,-77.91138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126755
+Falmouth,0-388-764-78397,Surface AWS,3,Closed,No,18.491083,-77.65772,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127983
+Farm #2,0-388-471-78397,Surface AWS,9,Closed,No,18.01111111,-76.888333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121361
+Farm Hill,0-388-726-78397,Surface AWS,1225,Closed,No,18.03333333,-76.63333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127453
+Fellowship,0-388-358-78397,Surface AWS,61,Closed,No,18.135061,-76.45816,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113262
+Fellowship 2,0-388-359-78397,Surface AWS,61,Closed,No,18.142377,-76.458296,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113263
+Ferris Cross,0-388-815-78397,Surface AWS,15,Closed,No,18.229706,-78.0763,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128148
+Ferris Prim.,0-388-90-7,Surface AWS,20,Closed,No,18.228333,-78.072222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111050
+Ferry,0-388-256-78397,Surface AWS,15,Closed,No,18.02111111,-76.871667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112423
+Flagaman,0-388-66-78397,Surface AWS,12,Closed,No,17.88933,-77.726814,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111009
+Flamstead,0-388-628-78397,Surface AWS,495,Closed,No,18.326254,-77.823434,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126756
+Flamstead,0-388-400-78397,Surface AWS,152,Closed,No,18.43833333,-77.423889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113865
+Flat Point,0-388-401-78397,Surface AWS,24,Closed,No,18.46111111,-77.291667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113866
+Flower Hill,0-388-629-78397,Surface AWS,320,Closed,No,18.492217,-77.856591,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126757
+Flowers Hill,0-388-219-78397,Surface AWS,183,Closed,No,18.358372,-78.088948,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112121
+Folly,0-388-360-78397,Surface AWS,8,Closed,No,18.182546,-76.440605,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113264
+Folly Pt,0-388-100-78397,Surface AWS,13,Closed,No,18.180494,-76.439012,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111184
+Fontabelle,0-388-816-78397,Surface AWS,15,Closed,No,18.28444444,-78.162222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128433
+Forest Hill,0-388-257-78397,Surface AWS,91,Closed,No,18.045118,-76.825545,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112425
+Fort Charles,0-388-565-78397,Surface AWS,85,Closed,No,17.91666667,-77.794444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122207
+Fort George,0-388-73-78397,Surface AWS,32,Closed,No,18.22861111,-76.77166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111016
+Fort George,0-388-258-78397,Surface AWS,396,Closed,No,18.020732,-76.651739,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112433
+Fort George Bot. Gdns,0-388-674-78397,Surface AWS,46,Closed,No,18.23305556,-76.77472222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126883
+Fort Stewart,0-388-675-78397,Surface AWS,79,Closed,No,18.235,-76.754167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126887
+Frankfield,0-388-130-78397,Surface AWS,301,Unknown,No,18.15305556,-77.37305556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111621
+Frankfield PWD,0-388-131-78397,Surface AWS,259,Closed,No,18.153774,-77.372926,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111680
+Friendship,0-388-630-78397,Surface AWS,122,Closed,No,18.43888889,-77.866667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126758
+Friendship,0-388-817-78397,Surface AWS,46,Closed,No,18.280664,-78.081742,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128434
+Frome,0-388-91-78397,Surface AWS,20,Closed,No,18.294722,-78.153333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111051
+Frome # 2,0-388-818-78397,Surface AWS,27,Closed,No,18.29166667,-78.15583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128435
+Frome #1,0-388-819-78397,Surface AWS,27,Closed,No,18.291806,-78.155916,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128436
+Fruitful Vale,0-388-361-78397,Surface AWS,164,Closed,No,18.14194444,-76.54861111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113265
+Fullerswood,0-388-567-78397,Surface AWS,27,Closed,No,18.00833333,-77.802778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122208
+Garlands,0-388-631-78397,Surface AWS,610,Closed,No,18.30388889,-77.831111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126759
+Gayles Valley,0-388-765-78397,Surface AWS,152,Closed,No,18.41611111,-77.74388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127986
+Georges Plain,0-388-820-78397,Surface AWS,14,Closed,No,18.26972222,-78.156389,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128437
+Georges Valley,0-388-568-78397,Surface AWS,15,Closed,No,18.10833333,-77.629167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122209
+Georgia,0-388-766-78397,Surface AWS,235,Closed,No,18.44888889,-77.53694444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127987
+Gibbons,0-388-132-78397,Surface AWS,18,Closed,No,17.83333333,-77.266667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111681
+Gibraltar NE,0-388-676-78397,Surface AWS,76,Closed,No,18.26472222,-76.754444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126913
+Gibralter,0-388-402-78397,Surface AWS,360,Closed,No,18.243155,-77.146813,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113867
+Ginger Hill,0-388-569-78397,Surface AWS,274,Closed,No,18.20333333,-77.861667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122243
+Ginger Ridge,0-388-473-78397,Surface AWS,229,Closed,No,18.075166,-77.172786,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121362
+Glengoffe,0-388-474-78397,Surface AWS,305,Closed,No,18.145092,-76.891772,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121363
+Glenmuir,0-388-133-78397,Surface AWS,61,Closed,No,17.95833333,-77.266667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111682
+Golden Grove,0-388-677-78397,Surface AWS,15,Closed,No,18.2575,-76.725556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126914
+Golden Grove,0-388-727-78397,Surface AWS,18,Closed,No,17.931672,-76.273534,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127454
+Gordon Town,0-388-259-78397,Surface AWS,305,Closed,No,18.033379,-76.719125,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112438
+Goshen,0-388-475-78397,Surface AWS,15,Closed,No,17.97555556,-76.952222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121364
+Goshen,0-388-570-78397,Surface AWS,24,Closed,No,18.04305556,-77.643056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122244
+Grange Hill,0-388-821-78397,Surface AWS,24,Closed,No,18.30972222,-78.168056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128438
+Grass Piece,0-388-476-78397,Surface AWS,428,Closed,No,18.12305556,-77.1325,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121365
+Grays Inn Factory,0-388-678-78397,Surface AWS,6,Closed,No,18.26166667,-76.781667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126915
+Great Bay,0-388-571-78397,Surface AWS,3,Closed,No,17.86166667,-77.738889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125971
+Great Salt Pond,0-388-477-78397,Surface AWS,15,Closed,No,17.95,-76.925,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121366
+Great Salt Pond 1,0-388-478-78397,Surface AWS,20,Closed,No,17.95111111,-76.92583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121367
+Great Salt Pond 2,0-388-479-78397,Surface AWS,22,Closed,No,17.93305556,-76.91638889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121368
+Greater Portmore,0-388-53-78397,Surface AWS,12,Closed,No,17.960074,-76.888985,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110932
+Green Island,0-388-220-78397,Surface AWS,33,Closed,No,18.38861111,-78.27416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112122
+Green Island HS,0-388-15-78397,Surface AWS,24,Operational,No,18.384381,-78.269332,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110661
+Green Pond,0-388-135-78397,Surface AWS,12,Unknown,No,17.793283,-77.273964,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111684
+Green Pond,0-388-134-78397,Surface AWS,38,Unknown,No,17.91388889,-77.290278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111683
+Green Pond,0-388-632-78397,Surface AWS,161,Closed,No,18.4725,-77.87361111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126760
+Greenvale,0-388-307-78397,Surface AWS,511,Closed,No,18.14861111,-77.55416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112935
+Greenwich SDW,0-388-260-78397,Surface AWS,15,Closed,No,17.98277778,-76.816667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112448
+GreenWood,0-388-633-78397,Surface AWS,0,Closed,No,18.506227,-77.737241,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126761
+Grimmith,0-388-136-78397,Surface AWS,30,Closed,No,17.85611111,-77.31805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111688
+Grove Place,0-388-30-78397,Surface AWS,453,Operational,No,18.11374,-77.522603,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110714
+Grove Place,0-388-308-78397,Surface AWS,490,Closed,No,18.11777778,-77.52222222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112936
+Guanaboa Vale,0-388-480-78397,Surface AWS,159,Closed,No,18.0375,-77.070833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121369
+Guy's Hill,0-388-481-78397,Surface AWS,594,Closed,No,18.24888889,-76.98888889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121370
+Guys Hill,0-388-679-78397,Surface AWS,549,Closed,No,18.251741,-76.985579,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126916
+Hague,0-388-767-78397,Surface AWS,9,Closed,No,18.47111111,-77.655,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127995
+Haining,0-388-362-78397,Surface AWS,93,Closed,No,17.98606,-76.285697,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113773
+Half Way Tree,0-388-261-78397,Surface AWS,61,Closed,No,18.00694444,-76.80472222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112449
+Half Way Tree,0-388-482-78397,Surface AWS,18,Closed,No,17.97333333,-76.908056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121371
+Hall Head,0-388-728-78397,Surface AWS,79,Closed,No,17.92277778,-76.465833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127455
+Halls Delight,0-388-262-78397,Surface AWS,921,Closed,No,18.05,-76.660556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112450
+Halse Hall,0-388-137-78397,Surface AWS,70,Closed,No,17.92777778,-77.25,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111689
+Hampden,0-388-85-78397,Surface AWS,107,Closed,No,18.44138889,-77.74527778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111036
+Hampden,0-388-768-78397,Surface AWS,152,Closed,No,18.441793,-77.745628,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127996
+Hampstead,0-388-680-78397,Surface AWS,194,Closed,No,18.30972222,-76.91694444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126917
+Happy Grove,0-388-37-78397,Surface AWS,33,Operational,No,18.007222,-76.267222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110895
+Harbour Head,0-388-263-78397,Surface AWS,3,Closed,No,17.94777778,-76.722778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112451
+Hardwar Gap,0-388-264-78397,Surface AWS,1219,Closed,No,18.08222222,-76.72777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112452
+Harmony Hall,0-388-770-78397,Surface AWS,244,Closed,No,18.45277778,-77.525,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128000
+Harmony Pen,0-388-483-78397,Surface AWS,8,Closed,No,17.923563,-76.997998,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121372
+Hartham,0-388-309-78397,Surface AWS,790,Closed,No,17.93833333,-77.51361111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112937
+Hartlands 1,0-388-484-78397,Surface AWS,9,Closed,No,17.93972222,-77.025,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121381
+Hartlands 2,0-388-485-78397,Surface AWS,19,Closed,No,17.94305556,-77.01833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121382
+Hartlands 3,0-388-486-78397,Surface AWS,13,Closed,No,17.93777778,-77.01027778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121383
+Harvey River,0-388-221-78397,Surface AWS,198,Closed,No,18.402711,-78.147589,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112123
+Haughton Court,0-388-222-78397,Surface AWS,76,Closed,No,18.438838,-78.202749,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112124
+Heathfield,0-388-138-78397,Surface AWS,36,Closed,No,17.8325,-77.27555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111690
+Hermantine,0-388-487-78397,Surface AWS,27,Closed,No,17.98611111,-76.958333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121384
+Hermitage,0-388-310-78397,Surface AWS,540,Closed,No,17.92166667,-77.44861111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112938
+Hermitage,0-388-572-78397,Surface AWS,701,Closed,No,17.938921,-77.705027,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125972
+Hermitage Reservoir,0-388-265-78397,Surface AWS,476,Closed,No,18.0825,-76.77,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112453
+Hill Run,0-388-54-78397,Surface AWS,17,Operational,No,17.938889,-76.992778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110934
+Hillside,0-388-139-78397,Surface AWS,17,Closed,No,17.83638889,-77.22138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111691
+Hog Hole,0-388-489-78397,Surface AWS,46,Closed,No,18.01111111,-76.980556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121389
+Holland,0-388-573-78397,Surface AWS,24,Closed,No,18.10166667,-77.81166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125973
+Holland Bamboo,0-388-67-78397,Surface AWS,10,Operational,No,18.10444444,-77.80972222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111010
+Holland HS,0-388-86-78397,Surface AWS,11,Closed,No,18.47416667,-77.66777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111037
+Holmwood Technical,0-388-311-78397,Surface AWS,914,Closed,No,18.15277778,-77.4875,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112939
+Home Castle,0-388-403-78397,Surface AWS,305,Closed,No,18.41805556,-77.415278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113868
+Hope,0-388-312-78397,Surface AWS,208,Closed,No,18.056546,-77.443488,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112940
+Hope Bay,0-388-363-78397,Surface AWS,6,Closed,No,18.199756,-76.561782,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113775
+Hope FP,0-388-266-78397,Surface AWS,215,Closed,No,18.02,-76.74694444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112454
+Hope Gardens,0-388-267-78397,Surface AWS,217,Closed,No,18.02222222,-76.75,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112455
+Hopewell,0-388-404-78397,Surface AWS,400,Closed,No,18.331459,-77.091333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113869
+Hopewell,0-388-223-78397,Surface AWS,61,Closed,No,18.452183,-78.0133,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112125
+Hordley Estate,0-388-729-78397,Surface AWS,18,Closed,No,17.94777778,-76.26555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127456
+Hounslow,0-388-574-78397,Surface AWS,76,Closed,No,17.94305556,-77.726389,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125974
+Huddersfield,0-388-681-78397,Surface AWS,31,Closed,No,18.40833333,-77.019444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126918
+Hunts Pen,0-388-140-78397,Surface AWS,85,Unknown,No,17.9329,-77.226415,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111692
+Hyde and Gibraltar,0-388-771-78397,Surface AWS,229,Closed,No,18.39444444,-77.538889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128001
+Hyde Estate,0-388-490-78397,Surface AWS,137,Closed,No,18.12638889,-76.995556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121390
+Hyde Hall,0-388-772-78397,Surface AWS,184,Closed,No,18.43083333,-77.56916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128002
+Industry,0-388-682-78397,Surface AWS,239,Closed,No,18.38972222,-77.0475,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126919
+Industry,0-388-405-78397,Surface AWS,640,Closed,No,18.38271,-77.254275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113870
+Ingleside,0-388-313-78397,Surface AWS,667,Closed,No,18.05666667,-77.49611111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112941
+Innswood 1 Factory,0-388-491-78397,Surface AWS,29,Closed,No,17.96805556,-77.02111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121404
+Innswood 2 Cotton Tree,0-388-492-78397,Surface AWS,33,Closed,No,17.99,-77.03944444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121405
+Innswood 3 McCooks,0-388-493-78397,Surface AWS,22,Closed,No,17.97083333,-77.0275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121406
+Innswood 4,0-388-494-78397,Surface AWS,18,Closed,No,17.973602,-77.033472,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121407
+Innswood 5,0-388-495-78397,Surface AWS,24,Closed,No,17.952511,-77.060442,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121408
+Innswood 6,0-388-496-78397,Surface AWS,27,Closed,No,17.952411,-77.0610442,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121409
+Inswood,0-388-55-78397,Surface AWS,26,Closed,No,17.98235167,-76.99937,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110938
+Inverness,0-388-671-78397,Surface AWS,671,Closed,No,18.27083333,-77.3625,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113871
+Ipswich,0-388-575-78397,Surface AWS,238,Closed,No,18.201646,-77.812094,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125975
+Irish Town,0-388-268-78397,Surface AWS,846,Closed,No,18.04805556,-76.72111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112456
+Irish Town,0-388-19-78397,Surface AWS,732,Operational,No,18.044513,-76.720588,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110665
+Ironshore,0-388-634-78397,Surface AWS,12,Closed,No,18.51444444,-77.869444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126762
+Irwin Agri.,0-388-635-78397,Surface AWS,61,Closed,No,18.453791,-77.882264,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126763
+Islington,0-388-683-78397,Surface AWS,198,Closed,No,18.31944444,-76.856111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126920
+Itor Boreale,0-388-684-78397,Surface AWS,15,Closed,No,18.265,-76.743333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126921
+J.J. Gagnon,0-388-314-78397,Surface AWS,502,Closed,No,18.09694444,-77.51027778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112942
+Jacks Hill,0-388-21-78397,Surface AWS,10,Operational,No,17.976289,-76.814206,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110667
+Jacks Hill,0-388-20-78397,Surface AWS,623,Operational,No,18.04568667,-76.75652333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110666
+Jacks Hill,0-388-269-78397,Surface AWS,618,Closed,No,18.046472,-76.756116,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112457
+Jacks River,0-388-685-78397,Surface AWS,76,Closed,No,18.377898,-76.944417,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126922
+Jam. Aquaculture,0-388-576-78397,Surface AWS,12,Closed,No,18.117926,-77.687381,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125976
+James Hill,0-388-141-78397,Surface AWS,579,Closed,No,18.17,-77.340278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111693
+Jericho P.O.,0-388-224-78397,Surface AWS,138,Closed,No,18.42833333,-78.13138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112126
+Joalmi Tollgate,0-388-142-78397,Surface AWS,55,Closed,No,17.97333333,-77.360556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111694
+Johns Hall,0-388-143-78397,Surface AWS,518,Closed,No,18.17722222,-77.380556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111695
+Johnson Mount,0-388-730-78397,Surface AWS,274,Closed,No,17.96634,-76.316105,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127457
+Kalorama,0-388-270-78397,Surface AWS,0,Closed,No,17.985847,-76.654834,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112458
+Kellits,0-388-144-78397,Surface AWS,549,Unknown,No,18.051328,-77.251101,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111696
+Kemps Hill,0-388-145-78397,Surface AWS,85,Closed,No,17.852683,-77.287632,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111697
+Kemps Hill,0-388-0-78397,Surface AWS,26,Operational,No,17.843336,-77.282787,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110477
+Kempshot,0-388-636-78397,Surface AWS,518,Closed,No,18.40138889,-77.86805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126764
+Kendal,0-388-225-78397,Surface AWS,58,Closed,No,18.35166667,-78.2275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112127
+Kensington,0-388-497-78397,Surface AWS,305,Closed,No,18.06944444,-76.958333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121410
+Kent Property,0-388-773-78397,Surface AWS,91,Closed,No,18.484986,-77.736169,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128003
+Kew Park,0-388-822-78397,Surface AWS,290,Closed,No,18.29305556,-77.941667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128439
+Kew Riley,0-388-226-78397,Surface AWS,58,Closed,No,18.435836,-78.169976,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112128
+King's Vale,0-388-227-78397,Surface AWS,152,Closed,No,18.37916667,-78.205556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112129
+Kings Valley,0-388-823-78397,Surface AWS,61,Closed,No,18.32444444,-78.19,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128441
+Kingston College,0-388-803-78397,Surface AWS,25,Closed,No,17.97398,-76.78334,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128113
+KINGSTON/NORMAN MANLEY,0-20000-0-78397,Upper-air / Radiosonde,3,Operational,Yes,17.9333333333,-76.7833333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/10999
+Kinloss,0-388-774-78397,Surface AWS,178,Closed,No,18.40222222,-77.57055556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128004
+Kirkpatrick,0-388-637-78397,Surface AWS,138,Closed,No,18.453326,-77.851749,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126765
+Kirkpatrick Hall,0-388-638-78397,Surface AWS,137,Closed,No,18.453326,-77.851749,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126766
+Kirkvine,0-388-315-78397,Surface AWS,189,Closed,No,18.079812,-77.474996,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112943
+Kitson Town,0-388-498-78397,Surface AWS,144,Closed,No,18.013214,-77.053248,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121411
+Knapdale,0-388-407-78397,Surface AWS,366,Closed,No,18.40416667,-77.329167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113872
+Knights,0-388-146-78397,Surface AWS,15,Closed,No,17.80305556,-77.281111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111698
+Knocklava,0-388-228-78397,Surface AWS,151,Closed,No,18.323556,-77.996679,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112130
+Knockpatrick Dalkeith,0-388-316-78397,Surface AWS,701,Closed,No,17.98333333,-77.508333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112944
+Knockpatrick Garth,0-388-317-78397,Surface AWS,667,Closed,No,17.97777778,-77.49888889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112947
+Knockpatrick Troon,0-388-318-78397,Surface AWS,669,Closed,No,17.989444,-77.507341,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112951
+Knollis,0-388-499-78397,Surface AWS,122,Closed,No,18.11388889,-76.994444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121412
+Labyrinth PO,0-388-686-78397,Surface AWS,335,Closed,No,18.35027778,-77.03,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126923
+Lacovia,0-388-577-78397,Surface AWS,31,Closed,No,18.07954,-77.764165,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125977
+Lady Hole,0-388-687-78397,Surface AWS,31,Closed,No,18.23333333,-76.773611,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126924
+Lady Musgrave,0-388-271-78397,Surface AWS,120,Closed,No,18.010857,-76.778677,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112459
+Lagoon,0-388-500-78397,Surface AWS,3,Closed,No,18.03333333,-76.888333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121416
+Lambs River,0-388-824-78397,Surface AWS,244,Closed,No,18.261081,-77.915476,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128442
+Langley,0-388-272-78397,Surface AWS,526,Closed,No,18.11666667,-76.77666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112465
+Lawrence Tavern,0-388-273-78397,Surface AWS,320,Closed,No,18.12388889,-76.84722222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112466
+Lawrencefield,0-388-501-78397,Surface AWS,24,Closed,No,17.98416667,-76.934444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121417
+Lennox,0-388-364-78397,Surface AWS,61,Closed,No,18.20555556,-76.602778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113776
+Lethe,0-388-229-78397,Surface AWS,21,Closed,No,18.389609,-77.968266,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112131
+Liberty Hill,0-388-408-78397,Surface AWS,244,Closed,No,18.41,-77.206944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113873
+Lime Hall,0-388-409-78397,Surface AWS,305,Closed,No,18.40555556,-77.208333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116548
+Lime Tree,0-388-502-78397,Surface AWS,20,Closed,No,18.090183,-77.030193,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121420
+Linstead,0-388-503-78397,Surface AWS,111,Closed,No,18.136559,-77.025166,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121443
+Lititz,0-388-578-78397,Surface AWS,229,Closed,No,17.93833333,-77.579167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125978
+Little Windsor,0-388-504-78397,Surface AWS,15,Closed,No,17.952483,-76.976189,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121449
+Llandewey,0-388-731-78397,Surface AWS,152,Closed,No,17.941301,-76.611119,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127458
+Llandilo,0-388-825-78397,Surface AWS,9,Closed,No,18.230565,-78.148693,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128443
+Llandovery,0-388-44-78397,Surface AWS,23,Operational,No,18.45833333,-77.269444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110921
+Llandovery Estate,0-388-410-78397,Surface AWS,15,Closed,No,18.458535,-77.2691,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116549
+Lodge,0-388-505-78397,Surface AWS,9,Closed,No,17.9125,-77.133333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121450
+Logwood,0-388-230-78397,Surface AWS,20,Closed,No,18.35166667,-78.2925,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112132
+Long Mountain,0-388-274-78397,Surface AWS,15,Closed,No,17.96805556,-76.748333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112467
+Long Road,0-388-688-78397,Surface AWS,240,Closed,No,18.211401,-76.750203,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126925
+Longswharf,0-388-506-78397,Surface AWS,3,Closed,No,17.88944444,-77.135,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121451
+Longville Park,0-388-147-78397,Surface AWS,17,Closed,No,17.90527778,-77.14388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111699
+Look Out,0-388-579-78397,Surface AWS,80,Closed,No,17.901386,-77.756809,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125985
+Lorne,0-388-507-78397,Surface AWS,2,Closed,No,18.00166667,-76.870833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121452
+Lorrimers,0-388-776-78397,Surface AWS,12,Closed,No,18.220195,-77.496162,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128005
+Lottery Estate,0-388-777-78397,Surface AWS,198,Closed,No,18.44388889,-77.614444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128012
+Low Ground,0-388-148-78397,Surface AWS,220,Closed,No,18.081958,-77.224734,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111700
+Lowe River,0-388-87-78397,Surface AWS,762,Closed,No,18.235213,-77.49898,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111038
+Lucea,0-388-231-78397,Surface AWS,15,Closed,No,18.45222222,-78.16583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112135
+Lucky Hill Farm,0-388-689-78397,Surface AWS,351,Closed,No,18.178848,-76.899819,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126926
+Lucky Hill Pen,0-388-690-78397,Surface AWS,305,Closed,No,18.178848,-76.89985,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126927
+Lyssons,0-388-732-78397,Surface AWS,37,Closed,No,17.88,-76.383333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127459
+Lyssons Nursery,0-388-733-78397,Surface AWS,50,Closed,No,17.878672,-76.373216,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127460
+Maggotty,0-388-580-78397,Surface AWS,129,Closed,No,18.15944444,-77.76222222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/125990
+Mahoe Hill,0-388-691-78397,Surface AWS,80,Closed,No,18.220375,-76.820381,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126930
+Mamee Ridge,0-388-411-78397,Surface AWS,501,Closed,No,18.35888889,-77.20277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116550
+Mamee Ridge AWS,0-388-16366-1636726,Surface AWS,496,Operational,No,18.35853667,-77.2025667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/173563
+Manchester Pastures,0-388-319-78397,Surface AWS,425,Closed,No,18.07833333,-77.46388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112953
+Manchioneal,0-388-365-78397,Surface AWS,18,Closed,No,18.04581,-76.280121,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113777
+Mandeville Alcan,0-388-320-78397,Surface AWS,671,Closed,No,18.04833333,-77.513333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112998
+Mandeville PWD,0-388-321-78397,Surface AWS,628,Closed,No,18.04305556,-77.509722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113001
+Manley/Palisadoes/NMIA,0-388-275-78397,Surface AWS,3,Closed,No,17.93416667,-76.779167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112468
+March Pen,0-388-508-78397,Surface AWS,26,Closed,No,17.95305556,-76.94972222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121453
+March Town,0-388-232-78397,Surface AWS,46,Closed,No,18.344063,-78.271227,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112136
+Marshall's Pen Sutton,0-388-322-78397,Surface AWS,660,Closed,No,18.05972222,-77.53111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113007
+Marshalls Pen Sutton,0-388-31-78397,Surface AWS,660,Operational,No,18.059713,-77.530977,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110750
+Masemic,0-388-826-78397,Surface AWS,9,Closed,No,18.242132,-78.186695,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128444
+Masemure,0-388-827-78397,Surface AWS,46,Closed,No,18.27083333,-78.22083333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128445
+Mason River 10m,0-388-55-0055,Surface AWS,702,Operational,No,18.189515,-77.266298,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110489
+Mason River 2m,0-388-0-78398,Surface AWS,0,Operational,No,18.192341,-77.2623,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110529
+Mason River Field,0-388-149-78397,Surface AWS,703,Unknown,No,18.19527778,-77.26194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111701
+Mavis Bank,0-388-22-78397,Surface AWS,744,Operational,No,18.028912,-76.651418,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110668
+Mavis Bank,0-388-97-78397,Surface AWS,744,Unknown,No,18.02833333,-76.65861111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111083
+May Pen,0-388-6-78397,Surface AWS,121,Operational,No,17.981407,-77.247484,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110530
+May Pen Hospital,0-388-150-78397,Surface AWS,55,Closed,No,17.970895,-77.261032,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111711
+May Pen PWD,0-388-151-78397,Surface AWS,115,Unknown,No,17.98111111,-77.24583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111712
+Mayfield AA,0-388-68-78397,Surface AWS,527,Closed,No,17.882105,-77.66588333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111011
+MEGJC Sav,0-388-828-78397,Surface AWS,10,Unknown,No,18.225278,-78.128333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128446
+Melrose,0-388-323-78397,Surface AWS,608,Closed,No,18.065267,-77.446498,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113020
+Meylersfield,0-388-829-78397,Surface AWS,15,Closed,No,18.25055556,-78.190278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128447
+Mico UC,0-388-23-78397,Surface AWS,62,Operational,No,17.98856667,-76.78905167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110670
+Middlesex,0-388-412-78397,Surface AWS,502,Closed,No,18.23833333,-77.0275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116551
+Middlesex,0-388-45-78397,Surface AWS,559,Operational,No,18.23833333,-77.0275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110922
+Middleton,0-388-734-78397,Surface AWS,229,Closed,No,17.937504,-76.439546,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127461
+Midgham Mtn.,0-388-830-78397,Surface AWS,120,Closed,No,18.313061,-78.228658,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128448
+Mile Gully,0-388-324-78397,Surface AWS,518,Closed,No,18.13672,-77.547229,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113027
+Milk River,0-388-152-78397,Surface AWS,0,Closed,No,17.879464,-77.354068,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111713
+Milk River Rest,0-388-153-78397,Surface AWS,0,Closed,No,17.87944444,-77.354167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111714
+Milk Spring,0-388-154-78397,Surface AWS,40,Closed,No,17.865,-77.33722222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111715
+Millbank,0-388-366-78397,Surface AWS,152,Closed,No,18.03666667,-76.40333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113778
+Millbank,0-388-101-78397,Surface AWS,152,Closed,No,18.03666667,-76.40333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111191
+Minards,0-388-413-78397,Surface AWS,360,Closed,No,18.407514,-77.38289,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116552
+Minards,0-388-46-78397,Surface AWS,366,Operational,No,18.41277778,-77.375,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110923
+Mint,0-388-831-78397,Surface AWS,76,Closed,No,18.31555556,-78.205833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128449
+Mitchell Town,0-388-7-78397,Surface AWS,22,Operational,No,17.807256,-77.200881,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110531
+Mocho,0-388-155-78397,Surface AWS,457,Closed,No,18.02777778,-77.32861111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111717
+Mona,0-388-276-78397,Surface AWS,183,Closed,No,18.005563,-76.754548,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112469
+Mona Bowl,0-388-24-78397,Surface AWS,172,Operational,No,18.004994,-76.754167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110672
+Mona Reservoir,0-388-25-78397,Surface AWS,183,Operational,No,18.007849,-76.757911,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110673
+Moneague,0-388-47-78397,Surface AWS,335,Operational,No,18.26805556,-77.11666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110924
+Montego Bay Airport,0-388-639-78397,Surface AWS,1,Closed,No,18.49722222,-77.920833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126767
+Montego Bay PWD,0-388-640-78397,Surface AWS,55,Closed,No,18.472263,-77.920835,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126768
+MONTEGO BAY/SANGSTER,0-20000-0-78388,Upper-air / Radiosonde,1,Operational,Yes,18.497316,-77.919335,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/10998
+Montpelier,0-388-641-78397,Surface AWS,169,Closed,No,18.36138889,-77.92472222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126770
+Monymusk (Research),0-388-156-78397,Surface AWS,9,Unknown,No,17.802643,-77.247954,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111718
+Moore Town,0-388-367-78397,Surface AWS,107,Closed,No,18.07694444,-76.4275,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113779
+Morant Bay,0-388-105-78397,Surface AWS,2,Closed,No,17.91527778,-76.184722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111222
+Morant Bay,0-388-735-78397,Surface AWS,27,Closed,No,17.88194444,-76.40166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127462
+Morant Bay Pwd,0-388-736-78397,Surface AWS,5,Closed,No,17.87833333,-76.416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127463
+MORANT POINT,0-20000-0-78399,Surface AWS,2,Operational,No,17.9166666667,-76.1833333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/11000
+Morant Point LH,0-388-737-78397,Surface AWS,2,Closed,No,17.91527778,-76.184722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127464
+Morelands,0-388-157-78397,Surface AWS,22,Unknown,No,17.81722222,-77.21916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111719
+Moreworth,0-388-325-78397,Surface AWS,686,Closed,No,18.02222222,-77.520833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113028
+Morgan's Valley,0-388-158-78397,Surface AWS,15,Closed,No,18.118957,-77.269178,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111727
+Mount Airy,0-388-279-78397,Surface AWS,549,Closed,No,18.13333333,-76.791667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112476
+Mount Airy Prim,0-388-802-78397,Surface AWS,493,Operational,No,18.0249272,-77.371113,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128112
+Mount Charles,0-388-581-78397,Surface AWS,146,Closed,No,18.091556,-77.869361,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126015
+Mount Cressy,0-388-278-78397,Surface AWS,914,Closed,No,18.13055556,-76.763889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112478
+Mount Eagle,0-388-832-78397,Surface AWS,76,Closed,No,18.304217,-78.205895,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128450
+Mount Eagle PWD,0-388-833-78397,Surface AWS,76,Closed,No,18.30416667,-78.205833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128451
+Mount Eagle WISCO,0-388-834-78397,Surface AWS,76,Closed,No,18.30416667,-78.205556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128452
+Mount Edgecombe,0-388-835-78397,Surface AWS,168,Closed,No,18.126247,-78.001843,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128453
+Mount Holstein,0-388-368-78397,Surface AWS,400,Closed,No,18.138417,-76.72116,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113790
+Mount Horeb,0-388-642-78397,Surface AWS,286,Closed,No,18.352896,-77.876934,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126771
+Mount James,0-388-277-78397,Surface AWS,427,Closed,No,18.113626,-76.786367,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112479
+Mount Liberty,0-388-8-78397,Surface AWS,467,Operational,No,18.080658,-77.312308,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110532
+Mount Nelson,0-388-326-78397,Surface AWS,640,Closed,No,18.03948,-77.486352,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113029
+Mount Peto,0-388-233-78397,Surface AWS,254,Closed,No,18.34305556,-78.02027778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112137
+Mount Pleasant,0-388-369-78397,Surface AWS,320,Closed,No,18.172441,-76.518362,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113791
+Mountainside,0-388-582-78397,Surface AWS,17,Closed,No,17.97666667,-77.74777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126358
+Mt. Hyndmost,0-388-159-78397,Surface AWS,213,Closed,No,18.09722222,-77.317222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111729
+Mulgrave,0-388-583-78397,Surface AWS,366,Closed,No,18.20555556,-77.811111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126359
+Mumby,0-388-160-78397,Surface AWS,28,Closed,No,17.8225,-77.28555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111730
+Munro College,0-388-584-78397,Surface AWS,793,Closed,No,17.92166667,-77.6875,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126360
+Munro Surbiton,0-388-585-78397,Surface AWS,772,Closed,No,17.92777778,-77.682222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126361
+Myersville,0-388-586-78397,Surface AWS,137,Closed,No,17.97222222,-77.633333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126362
+Nain,0-388-587-78397,Surface AWS,191,Closed,No,17.96027778,-77.603333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126363
+Nain_Alpart,0-388-588-78397,Surface AWS,191,Closed,No,17.960295,-77.60343,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126364
+Needham,0-388-161-78397,Surface AWS,18,Closed,No,17.84388889,-77.260556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111731
+NEGRIL POINT,0-20000-0-78387,Surface AWS,9,Operational,No,18.25,-78.3666666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/10997
+Negril Point LH,0-388-836-78397,Surface AWS,8,Closed,No,18.24583333,-78.36111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128454
+New Development,0-388-509-78397,Surface AWS,376,Closed,No,18.15555556,-77.16055556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121454
+New Forest,0-388-32-78397,Surface AWS,144,Operational,No,17.906943,-77.560741,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110751
+New Forest,0-388-33-78397,Surface AWS,144,Operational,No,17.906943,-77.560741,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110885
+New Ground,0-388-414-78397,Surface AWS,213,Closed,No,18.39583333,-77.2,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116554
+New Hall,0-388-510-78397,Surface AWS,122,Closed,No,18.14027778,-76.98194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121455
+New Hope,0-388-92-78397,Surface AWS,9,Closed,No,18.09083333,-77.96972222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111066
+New Monymusk,0-388-162-78397,Surface AWS,9,Unknown,No,17.80805556,-77.25138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111732
+New River,0-388-589-78397,Surface AWS,15,Closed,No,18.06944444,-77.695,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126365
+New Works Farm,0-388-511-78397,Surface AWS,139,Closed,No,18.16,-77.00416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121456
+New Yarmouth,0-388-163-78397,Surface AWS,27,Unknown,No,17.87777778,-77.27916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111733
+New Yarmouth Fisher,0-388-164-78397,Surface AWS,28,Unknown,No,17.87959,-77.273319,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111734
+New Yarmouth Office,0-388-9-78397,Surface AWS,42,Operational,No,17.88222222,-77.27638889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110539
+Newcastle,0-388-280-78397,Surface AWS,1128,Closed,No,18.071472,-76.715839,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112480
+Newcombe Val.,0-388-69-78397,Surface AWS,103,Closed,No,17.92080667,-77.75675167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111012
+Newmarket,0-388-590-78397,Surface AWS,351,Closed,No,18.159241,-77.918067,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126366
+Newport,0-388-327-78397,Surface AWS,732,Closed,No,17.95833333,-77.508333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113038
+Newport PO,0-388-329-78397,Surface AWS,718,Closed,No,17.95777778,-77.50805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113116
+Newry,0-388-692-78397,Surface AWS,50,Closed,No,18.2825,-76.802222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126931
+Niagra,0-388-643-78397,Surface AWS,521,Closed,No,18.248023,-77.812385,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126772
+Non Pariel Farm,0-388-837-78397,Surface AWS,18,Closed,No,18.275357,-78.318545,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128456
+Nonsuch,0-388-370-78397,Surface AWS,229,Closed,No,18.15,-76.420556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113792
+Norbrook,0-388-281-78397,Surface AWS,213,Closed,No,18.056267,-76.790144,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112481
+Norris,0-388-78-78397,Surface AWS,51,Closed,No,17.91583333,-76.57833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111023
+Nutfield,0-388-693-78397,Surface AWS,232,Closed,No,18.30972222,-76.833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126932
+Ocho Rios,0-388-415-78397,Surface AWS,5,Closed,No,18.40416667,-77.106667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116555
+Old England,0-388-330-78397,Surface AWS,610,Closed,No,17.991624,-77.469347,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113117
+Old Monymusk Climo,0-388-165-78397,Surface AWS,9,Closed,No,17.80805556,-77.25138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111735
+Old Yarmouth Fisher,0-388-167-78397,Surface AWS,13,Unknown,No,17.87055556,-77.28666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111736
+Oracabessa,0-388-694-78397,Surface AWS,15,Closed,No,18.399979,-76.949853,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126933
+Orange Bay,0-388-234-78397,Surface AWS,4,Closed,No,18.352214,-78.306033,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112138
+Orange River,0-388-74-78397,Surface AWS,260,Closed,No,18.254562,-76.879474,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111017
+Orange River,0-388-695-78397,Surface AWS,260,Closed,No,18.25444444,-76.88055556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126934
+Orange Valley,0-388-88-78397,Surface AWS,74,Closed,No,18.470833,-77.725278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111048
+Orange Valley Estate,0-388-779-78397,Surface AWS,74,Closed,No,18.47083333,-77.72527778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128032
+Oreland,0-388-838-78397,Surface AWS,185,Closed,No,18.286794,-78.24652,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128457
+Osborne Store,0-388-168-78397,Surface AWS,27,Unknown,No,17.9675,-77.32916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111737
+Oxford,0-388-780-78397,Surface AWS,231,Closed,No,18.45,-77.58111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128035
+Palm,0-388-513-78397,Surface AWS,31,Closed,No,18.19111111,-77.030556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121619
+Palmer's Hut,0-388-514-78397,Surface AWS,134,Closed,No,18.115,-77.03388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121620
+Palmers Cross,0-388-169-78397,Surface AWS,110,Closed,No,17.953792,-77.214206,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111742
+Papine Penfield,0-388-282-78397,Surface AWS,198,Unknown,No,18.01527778,-76.742222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112886
+Paradise,0-388-170-78397,Surface AWS,32,Closed,No,17.83694444,-77.295,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111746
+Parnassus,0-388-171-78397,Surface AWS,51,Closed,No,17.9275,-77.2725,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111790
+Passley Gardens,0-388-38-78397,Surface AWS,18,Operational,No,18.204473,-76.487727,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110896
+Paul Island,0-388-839-78397,Surface AWS,18,Closed,No,18.26472222,-78.192778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128458
+Pear Tree Grove,0-388-696-78397,Surface AWS,762,Closed,No,18.24861111,-76.943056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126935
+Pedro,0-388-591-78397,Surface AWS,137,Closed,No,17.887693,-77.731669,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126367
+Pembrooke Hall,0-388-697-78397,Surface AWS,213,Closed,No,18.298425,-76.985925,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126936
+Pepper,0-388-592-78397,Surface AWS,92,Closed,No,18.02472222,-77.60666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126368
+Pera LTD,0-388-738-78397,Surface AWS,18,Closed,No,17.88664,-76.285614,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127465
+Petersfield,0-388-840-78397,Surface AWS,46,Closed,No,18.25972222,-78.070833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128459
+Phoenix Park B,0-388-515-78397,Surface AWS,28,Closed,No,17.96388889,-76.93333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121621
+Phoenix Park C,0-388-516-78397,Surface AWS,28,Closed,No,17.96388889,-76.93333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121622
+Pinnock Shafston,0-388-93-7,Surface AWS,771,Closed,No,18.174556,-77.987806,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111079
+Plantain Garden,0-388-79-78397,Surface AWS,52,Closed,No,17.947785,-76.375433,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111024
+Plantain Gdn,0-388-739-78397,Surface AWS,52,Closed,No,17.934801,-76.317585,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127466
+Pleasantville,0-388-517-78397,Surface AWS,15,Closed,No,18.191783,-76.959113,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121623
+Point Hill,0-388-518-78397,Surface AWS,610,Closed,No,18.08388889,-77.106667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121624
+Pondside Prim.,0-388-70-78397,Surface AWS,22,Closed,No,17.97754,-77.80486333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111013
+Port Antonio,0-388-371-78397,Surface AWS,9,Closed,No,18.18055556,-76.45944444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113803
+Port Maria,0-388-698-78397,Surface AWS,14,Closed,No,18.37305556,-76.89361111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126937
+Port Royal,0-388-283-78397,Surface AWS,5,Closed,No,17.931913,-76.843782,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112887
+Portland LH,0-388-172-78397,Surface AWS,168,Closed,No,17.73944444,-77.156944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111799
+Portland Point,0-388-173-78397,Surface AWS,2,Closed,No,17.739265,-77.158669,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111800
+Porus,0-388-331-78397,Surface AWS,133,Closed,No,18.031533,-77.411037,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113118
+Potosi,0-388-740-78397,Surface AWS,61,Closed,No,17.931029,-76.361265,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127771
+Potsdam,0-388-593-78397,Surface AWS,660,Closed,No,17.958581,-77.695702,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126369
+Prickle Pole,0-388-416-78397,Surface AWS,648,Closed,No,18.288547,-77.256929,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/116646
+Priestmans River,0-388-372-78397,Surface AWS,27,Closed,No,18.1375,-76.340278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113838
+Priory,0-388-417-78397,Surface AWS,14,Closed,No,18.445,-77.229167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118690
+Prospect Park,0-388-841-78397,Surface AWS,61,Closed,No,18.321813,-78.097559,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128460
+Providence,0-388-644-78397,Surface AWS,38,Closed,No,18.506886,-77.890207,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126773
+Providence,0-388-374-78397,Surface AWS,109,Closed,No,18.15392,-76.44683,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113839
+Pusey Hall,0-388-174-78397,Surface AWS,16,Closed,No,17.79916667,-77.24805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111801
+Pye River,0-388-645-78397,Surface AWS,6,Closed,No,18.4375,-77.92916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126774
+Quarantine Station,0-388-519-78397,Surface AWS,3,Closed,No,17.95138889,-76.869444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121625
+Quebec,0-388-699-78397,Surface AWS,24,Closed,No,18.34444444,-76.883333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126938
+Quickstep,0-388-781-78397,Surface AWS,381,Closed,No,18.244216,-77.705456,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128036
+RADAR Kingston,—,Weather radar,,Operational,No,18.0666666667,-76.85,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/31900
+Raheen 1,0-388-594-78397,Surface AWS,149,Closed,No,18.16888889,-77.67916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126370
+Raheen 2,0-388-595-78397,Surface AWS,149,Closed,No,18.18179,-77.684439,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126371
+Raheen 3,0-388-596-78397,Surface AWS,146,Closed,No,18.169776,-77.679,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126372
+Ramble,0-388-236-78397,Surface AWS,229,Closed,No,18.32722222,-78,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112150
+Ramble,0-388-175-78397,Surface AWS,34,Closed,No,17.88861111,-77.32388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111802
+Ramble,0-388-741-78397,Surface AWS,244,Closed,No,17.97472222,-76.61277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127772
+Ramble AWS,0-388-80-7,Surface AWS,245,Closed,No,17.97472222,-76.61277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111025
+Ramble Union Hill,0-388-700-78397,Surface AWS,326,Closed,No,18.365,-76.99194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126939
+Rat Trap,0-388-842-78397,Surface AWS,335,Closed,No,18.25972222,-77.935556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128461
+Raymonds,0-388-176-78397,Surface AWS,27,Closed,No,17.84833333,-77.233333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111803
+Reach,0-388-375-78397,Surface AWS,0,Closed,No,18.042106,-76.320773,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113840
+Red Hills,0-388-284-78397,Surface AWS,457,Closed,No,18.05166667,-76.852778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112888
+Reids Pen,0-388-520-78397,Surface AWS,12,Closed,No,17.950158,-76.919471,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121626
+Retirement,0-388-646-78397,Surface AWS,104,Closed,No,18.434799,-77.880264,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126775
+Retreat,0-388-701-78397,Surface AWS,120,Closed,No,18.393289,-77.031207,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127368
+Retrieve,0-388-332-78397,Surface AWS,244,Closed,No,17.92638889,-77.395833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113119
+Retrieve,0-388-844-78397,Surface AWS,31,Closed,No,18.26083333,-78.230278,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128470
+Rhodes Hall HS,0-388-17-78397,Surface AWS,2,Operational,No,18.368021,-78.304509,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110663
+Rhymesbury,0-388-177-78397,Surface AWS,40,Closed,No,17.92361111,-77.318056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111808
+Richmond,0-388-702-78397,Surface AWS,166,Closed,No,18.24694444,-76.89166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127369
+Richmond Cocoa Farm,0-388-703-78397,Surface AWS,146,Closed,No,18.23194444,-76.883889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127370
+Richmond Estate,0-388-418-78397,Surface AWS,37,Closed,No,18.44416667,-77.247222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118691
+Richmond Hill,0-388-647-78397,Surface AWS,229,Closed,No,18.360895,-77.912966,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126776
+Richmond Park Primary,0-388-801-78397,Surface AWS,554,Operational,No,18.039244,-77.368154,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128111
+Richmond Pwd,0-388-704-78397,Surface AWS,137,Closed,No,18.24333333,-76.893056,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127371
+Richmond Vale,0-388-742-78397,Surface AWS,146,Closed,No,17.989889,-76.593967,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127773
+Rio Bueno,0-388-782-78397,Surface AWS,12,Closed,No,18.470077,-77.461227,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128037
+Rio Hoe,0-388-419-78397,Surface AWS,362,Closed,No,18.28611111,-77.10666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118692
+Rio Magno,0-388-521-78397,Surface AWS,229,Closed,No,18.20555556,-76.968333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121627
+Ritchies,0-388-178-78397,Surface AWS,839,Closed,No,18.13916667,-77.43138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111815
+Riversdale,0-388-522-78397,Surface AWS,152,Closed,No,18.16444444,-76.965556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121628
+Robins Bay,0-388-705-78397,Surface AWS,31,Closed,No,18.28055556,-76.825,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127372
+Rock Hall,0-388-376-78397,Surface AWS,433,Closed,No,18.159173,-76.538106,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113841
+Rock River,0-388-179-78397,Surface AWS,207,Closed,No,18.06805556,-77.21277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111818
+Rock River ECI,0-388-180-78397,Surface AWS,229,Closed,No,18.065,-77.214722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111819
+Rockfield,0-388-420-78397,Surface AWS,533,Closed,No,18.38472222,-77.189444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118693
+Rocky Point,0-388-10-78397,Surface AWS,-1,Operational,No,17.77527778,-77.25583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110548
+Roehampton,0-388-72-78397,Surface AWS,341,Closed,No,18.2975,-77.863889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111015
+Rose Hall,0-388-597-78397,Surface AWS,625,Closed,No,17.922666,-77.649618,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126373
+Rose Hall,0-388-648-78397,Surface AWS,26,Closed,No,18.51333333,-77.81805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126777
+Rose Hall Hotel,0-388-649-78397,Surface AWS,26,Closed,No,18.52083333,-77.822778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126778
+Rose Hill,0-388-285-78397,Surface AWS,1097,Closed,No,18.080577,-76.738807,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112889
+Roselle,0-388-743-78397,Surface AWS,2,Closed,No,17.885294,-76.460196,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127774
+Rowington,0-388-181-78397,Surface AWS,26,Closed,No,17.89277778,-77.31916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111825
+Rowlandsfield,0-388-744-78397,Surface AWS,244,Closed,No,17.97055556,-76.27805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127775
+Royal Palm Est.,0-388-94-78397,Surface AWS,8,Closed,No,18.294038,-78.315051,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111080
+Runaway Bay,0-388-421-78397,Surface AWS,36,Closed,No,18.45472222,-77.335,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118694
+Running Gut,0-388-650-78397,Surface AWS,15,Closed,No,18.51805556,-77.8375,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126779
+Salt River,0-388-182-78397,Surface AWS,4,Closed,No,17.83361111,-77.17361111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111829
+Salt River,0-388-11-78397,Surface AWS,2,Operational,No,17.832513,-77.177919,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110551
+Salt Savannah,0-388-183-78397,Surface AWS,26,Closed,No,17.78583333,-77.24888889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111840
+Salt Spring,0-388-651-78397,Surface AWS,183,Closed,No,18.48666667,-77.875,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126780
+Sam Wint,0-388-184-78397,Surface AWS,73,Closed,No,17.939633,-77.251446,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111841
+Sandy Bay,0-388-237-78397,Surface AWS,15,Closed,No,18.447729,-78.077293,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112151
+Sandy Gully,0-388-185-78397,Surface AWS,46,Closed,No,17.90555556,-77.290556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111842
+Sangster,0-388-652-78397,Surface AWS,9,Closed,No,18.4975,-77.91916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126781
+Santa Cruz,0-388-71-78397,Surface AWS,43,Closed,No,18.04433,-77.6955676,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111014
+Santa Cruz,0-388-598-78397,Surface AWS,24,Closed,No,18.047106,-77.699721,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126500
+Savanna-la-mar,0-388-845-78397,Surface AWS,9,Closed,No,18.22416667,-78.13027778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128471
+Savoy,0-388-186-78397,Surface AWS,229,Closed,No,18.10111111,-77.279167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111843
+Sawyers,0-388-89-78397,Surface AWS,330,Closed,No,18.374033,-77.487021,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111049
+Sawyers,0-388-783-78397,Surface AWS,310,Closed,No,18.37777778,-77.48722222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128038
+Schwallenburg,0-388-422-78397,Surface AWS,295,Closed,No,18.224554,-77.097715,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118695
+Seaford Twn,0-388-846-78397,Surface AWS,268,Closed,No,18.258747,-77.899809,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128496
+Seaforth,0-388-745-78397,Surface AWS,120,Closed,No,17.935899,-76.452349,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127776
+Seaside,0-388-423-78397,Surface AWS,12,Closed,No,18.45444444,-77.235556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118696
+Seaview FP,0-388-286-78397,Surface AWS,547,Closed,No,18.07972222,-76.78583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112890
+Serge Island,0-388-81-78397,Surface AWS,97,Closed,No,17.94898,-76.47968333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111026
+Serge Island,0-388-746-78397,Surface AWS,107,Closed,No,17.94888889,-76.47944444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127777
+Sevens Est.,0-388-187-78397,Surface AWS,61,Closed,No,17.99299,-77.210679,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111844
+Shaws,0-388-599-78397,Surface AWS,13,Closed,No,18.114751,-77.817187,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126501
+Sheckles,0-388-188-78397,Surface AWS,55,Closed,No,17.977063,-77.304626,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111845
+Sheffield,0-388-847-78397,Surface AWS,24,Closed,No,18.27111111,-78.307222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128497
+Shepherd Hall,0-388-654-78397,Surface AWS,474,Closed,No,18.368664,-77.836901,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126782
+Sherwood,0-388-784-78397,Surface AWS,229,Closed,No,18.391679,-77.629,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128039
+Sherwood Forest,0-388-377-78397,Surface AWS,208,Closed,No,18.14888889,-76.37777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113842
+Shettlewood,0-388-238-78397,Surface AWS,205,Closed,No,18.34611111,-77.95694444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112152
+Shettlewood,0-388-18-78397,Surface AWS,186,Operational,No,18.34083333,-77.955,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110664
+Shirley Castle,0-388-378-78397,Surface AWS,460,Closed,No,18.155285,-76.611326,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113843
+Shirley Castle,0-388-39-78397,Surface AWS,499,Operational,No,18.158713,-76.614125,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110897
+Shooters Hill,0-388-333-78397,Surface AWS,427,Closed,No,18.08888889,-77.479167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113126
+Shortwood,0-388-26-78397,Surface AWS,92,Operational,No,18.047103,-76.783377,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110674
+Silver Hill,0-388-27-78397,Surface AWS,1180,Operational,No,18.080952,-76.68049,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110675
+Silver Spring,0-388-848-78397,Surface AWS,15,Closed,No,18.307228,-78.296917,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128498
+SIRI,0-388-99-78397,Surface AWS,462,Closed,No,18.065,-77.504722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111157
+Sligoville,0-388-610-78397,Surface AWS,610,Closed,No,18.094759,-76.936687,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121629
+Smallwood,0-388-524-78397,Surface AWS,14,Closed,No,17.958476,-77.008983,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121630
+SMBE,0-388-104-78397,Surface AWS,38,Closed,No,18.264705,-76.799641,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111204
+Smithfield,0-388-239-78397,Surface AWS,275,Closed,No,18.408367,-78.097317,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112153
+Smithville,0-388-189-78397,Surface AWS,549,Closed,No,18.10166667,-77.370556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111846
+South Syndicate,0-388-525-78397,Surface AWS,6,Closed,No,17.975,-76.884444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121631
+Southfield,0-388-600-78397,Surface AWS,533,Closed,No,17.881631,-77.676779,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126502
+Spaldings ECI,0-388-190-78397,Surface AWS,823,Closed,No,18.15277778,-77.455556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111847
+Spaldings PWD,0-388-191-78397,Surface AWS,808,Closed,No,18.15277778,-77.455556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111848
+Spanish Town,0-388-526-78397,Surface AWS,29,Closed,No,17.97913,-76.96305,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121632
+Spanish Wood,0-388-747-78397,Surface AWS,63,Closed,No,17.92444444,-76.24277778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127779
+Spauldings,0-388-192-78397,Surface AWS,808,Closed,No,18.158382,-77.455673,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111849
+Spring Garden,0-388-849-78397,Surface AWS,15,Closed,No,18.265511,-78.265755,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128499
+Spring Garden,0-388-379-78397,Surface AWS,15,Closed,No,18.219411,-76.638942,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113844
+Spring Gardens,0-388-527-78397,Surface AWS,83,Closed,No,17.979427,-77.083414,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121633
+Spring Gardens 1,0-388-528-78397,Surface AWS,47,Closed,No,17.96833333,-77.07083333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121634
+Spring Gardens 2,0-388-529-78397,Surface AWS,30,Closed,No,17.97694444,-77.06194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121635
+Spring MT,0-388-655-78397,Surface AWS,533,Closed,No,18.519436,-77.852781,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126783
+Spring Plain,0-388-193-78397,Surface AWS,0,Closed,No,17.914649,-77.36224,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111850
+Spring Vale,0-388-530-78397,Surface AWS,152,Closed,No,18.08444444,-77.054444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121636
+Spring Valley,0-388-240-78397,Surface AWS,20,Closed,No,18.398345,-78.240557,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112163
+Springfield,0-388-194-78397,Surface AWS,26,Closed,No,17.85472222,-77.335,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111851
+Springfield,0-388-601-78397,Surface AWS,533,Closed,No,18.17222222,-77.875,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126503
+Springhead,0-388-195-78397,Surface AWS,29,Closed,No,17.86388889,-77.30805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111852
+Spur Tree,0-388-334-78397,Surface AWS,747,Closed,No,17.991248,-77.562473,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113127
+Spur Tree Hope,0-388-335-78397,Surface AWS,777,Closed,No,17.98916667,-77.552222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113128
+St Helen # 3,0-388-531-78397,Surface AWS,29,Closed,No,17.97333333,-77.04583333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121804
+St Ronans MV,0-388-336-78397,Surface AWS,671,Closed,No,18.055,-77.514444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113129
+St. Anns Bay,0-388-424-78397,Surface AWS,15,Closed,No,18.433171,-77.200479,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118697
+St. Georges College,0-388-287-78397,Surface AWS,38,Closed,No,17.977116,-76.781451,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112891
+St. Helen 5,0-388-532-78397,Surface AWS,33,Closed,No,17.95444444,-77.05333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121911
+St. Jago,0-388-196-78397,Surface AWS,29,Closed,No,17.86388889,-77.30805556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111853
+St. Leonards (Seaford Twn),0-388-850-78397,Surface AWS,268,Closed,No,18.25888889,-77.89972222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128500
+St. Toolis,0-388-197-78397,Surface AWS,61,Closed,No,17.978494,-77.385646,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111854
+Steelfield,0-388-785-78397,Surface AWS,230,Closed,No,18.43833333,-77.555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128040
+Sterling Castle,0-388-288-78397,Surface AWS,457,Closed,No,18.055,-76.8375,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112892
+Stewart Town,0-388-786-78397,Surface AWS,244,Closed,No,18.383821,-77.450133,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128045
+Stony Hill (Fort George),0-388-289-78397,Surface AWS,415,Closed,No,18.08055556,-76.80222222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112893
+Success Pen,0-388-656-78397,Surface AWS,5,Closed,No,18.51444444,-77.770833,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126784
+Sunning Hill,0-388-748-78397,Surface AWS,70,Closed,No,17.94777778,-76.37527778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127780
+Suttons,0-388-198-78397,Surface AWS,14,Closed,No,17.81416667,-77.25722222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111855
+Suttons RWC,0-388-199-78397,Surface AWS,15,Closed,No,17.81527778,-77.2625,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111856
+Suttons Wisco,0-388-200-78397,Surface AWS,15,Closed,No,17.81527778,-77.261944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111857
+Swansea,0-388-533-78397,Surface AWS,383,Closed,No,18.1625,-77.14888889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121969
+Swanswick,0-388-787-78397,Surface AWS,207,Closed,No,18.4175,-77.53111111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128046
+Sweetwater,0-388-657-78397,Surface AWS,732,Closed,No,18.27361111,-77.833333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126785
+Sweetwood MV,0-388-337-78397,Surface AWS,671,Closed,No,18.05722222,-77.5125,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113136
+Swift River,0-388-380-78397,Surface AWS,256,Closed,No,18.168289,-76.58985,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113845
+Tarrentum,0-388-201-78397,Surface AWS,23,Closed,No,17.8375,-77.172222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112104
+Teak Pen,0-388-202-78397,Surface AWS,387,Closed,No,18.043075,-77.265436,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112105
+Temple Galleries,0-388-658-78397,Surface AWS,0,Closed,No,18.447517,-77.9163,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126786
+Temple Hall,0-388-290-78397,Surface AWS,231,Closed,No,18.111623,-76.823905,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112894
+Thatchfield,0-388-602-78397,Surface AWS,20,Closed,No,17.94111,-77.814916,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126504
+Thompson Town,0-388-203-78397,Surface AWS,738,Closed,No,18.08666667,-77.36333333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112106
+Tiltson,0-388-788-78397,Surface AWS,130,Closed,No,18.42888889,-77.71666667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128047
+Tivey Penny,0-388-425-78397,Surface AWS,468,Closed,No,18.260127,-77.181674,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118698
+Top Mountain,0-388-291-78397,Surface AWS,1082,Closed,No,18.075,-76.668889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112895
+Tregaron MV,0-388-338-78397,Surface AWS,671,Closed,No,18.05444444,-77.511111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113139
+Trinityville,0-388-749-78397,Surface AWS,229,Closed,No,17.958657,-76.525616,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127781
+Troja,0-388-534-78397,Surface AWS,238,Closed,No,18.201304,-76.926522,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/121974
+Trout Hall,0-388-204-78397,Surface AWS,271,Closed,No,18.14166667,-77.33555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112107
+Troy,0-388-789-78397,Surface AWS,463,Closed,No,18.246339,-77.613328,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128048
+Tryall,0-388-659-78397,Surface AWS,213,Closed,No,18.50055556,-77.844444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126787
+Tryall Golf Club,0-388-241-78397,Surface AWS,32,Closed,No,18.44782,-78.058469,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112172
+Tulloch,0-388-56-78397,Surface AWS,104,Operational,No,18.10833333,-76.98194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110940
+Tulloch Estates,0-388-535-78397,Surface AWS,92,Closed,No,18.10805556,-76.98194444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122128
+Tweedside,0-388-205-78397,Surface AWS,472,Closed,No,18.175,-77.4125,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112108
+Twickenham,0-388-57-78397,Surface AWS,53,Operational,No,18.00165833,-76.93553167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110941
+Twickenham Park,0-388-536-78397,Surface AWS,21,Closed,No,18.001667,-76.935556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122129
+Two Sister,0-388-206-78397,Surface AWS,0,Closed,No,17.884345,-76.90325,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112109
+Ulster Spring,0-388-790-78397,Surface AWS,471,Closed,No,18.31,-77.52166667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128049
+Unity Valley,0-388-426-78397,Surface AWS,305,Closed,No,18.25277778,-77.116667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118699
+Up Park Camp,0-388-292-78397,Surface AWS,76,Closed,No,17.99444444,-76.777778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112896
+Vernamfield,0-388-12-78397,Surface AWS,40,Operational,No,17.88722222,-77.31027778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110569
+Vernamfield,0-388-207-78397,Surface AWS,35,Closed,No,17.89388889,-77.31388889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112110
+Victoria Town,0-388-339-78397,Surface AWS,152,Closed,No,17.91583333,-77.381389,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113140
+Wait-a-bit,0-388-791-78397,Surface AWS,838,Closed,No,18.24722222,-77.519444,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128053
+Wakefield,0-388-537-78397,Surface AWS,126,Closed,No,18.10722222,-77.04722222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122130
+Wakefield,0-388-792-78397,Surface AWS,122,Closed,No,18.4125,-77.727222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128054
+Walderston,0-388-340-78397,Surface AWS,793,Closed,No,18.13194444,-77.484722,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113141
+Wales,0-388-793-78397,Surface AWS,122,Closed,No,18.428175,-77.671849,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128055
+Wales,0-388-341-78397,Surface AWS,733,Closed,No,17.958851,-77.505329,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113142
+Walkerswood,0-388-48-78397,Surface AWS,495,Operational,No,18.328905,-77.095277,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110925
+Wallens,0-388-538-78397,Surface AWS,171,Closed,No,18.18388889,-77.00416667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122131
+Wallens,0-388-58-78397,Surface AWS,198,Closed,No,18.183081,-76.992569,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110944
+Wallingford,0-388-603-78397,Surface AWS,229,Closed,No,18.17916667,-77.647222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126505
+Warwick Castle #1,0-388-539-78397,Surface AWS,35,Closed,No,17.98333333,-76.99888889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122132
+Warwick Castle #2,0-388-540-78397,Surface AWS,29,Closed,No,17.96944444,-77.01138889,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122133
+Warwick Castle #3,0-388-541-78397,Surface AWS,40,Closed,No,17.99027778,-77.00555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122134
+Warwick Castle #4,0-388-542-78397,Surface AWS,21,Closed,No,17.99027778,-77.001944,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122135
+Water Valley,0-388-706-78397,Surface AWS,31,Closed,No,18.28055556,-76.825,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127373
+Waterloo Rd CIB,0-388-293-78397,Surface AWS,99,Closed,No,18.01888889,-76.79083333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112904
+Watermount,0-388-543-78397,Surface AWS,366,Closed,No,18.059906,-77.101381,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122136
+Watson Grove,0-388-544-78397,Surface AWS,14,Closed,No,17.98722222,-76.885,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122137
+Watt Town,0-388-427-78397,Surface AWS,549,Closed,No,18.309435,-77.412219,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118700
+Watt Town,0-388-49-78397,Surface AWS,542,Closed,No,18.30388661,-77.40801972,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110926
+Welch Pole,0-388-851-78397,Surface AWS,427,Closed,No,18.25277778,-77.9597224,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128501
+Weston Favel,0-388-794-78397,Surface AWS,15,Closed,No,18.40779,-77.741554,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128056
+Wey Hill,0-388-707-78397,Surface AWS,305,Closed,No,18.17916667,-76.878333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127374
+Wheelersfield,0-388-750-78397,Surface AWS,27,Closed,No,17.9557,-76.289624,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127782
+Whim,0-388-545-78397,Surface AWS,17,Closed,No,17.946561,-77.101863,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122138
+White Marl,0-388-546-78397,Surface AWS,15,Closed,No,17.99583333,-76.908333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122139
+Whitehorses,0-388-751-78397,Surface AWS,62,Closed,No,17.87166667,-76.47555556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127783
+Whitehouse,0-388-852-78397,Surface AWS,14,Closed,No,18.085088,-77.966517,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128502
+Whitfield Hall,0-388-752-78397,Surface AWS,1280,Closed,No,18.047908,-76.618417,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127784
+Whithorn,0-388-853-78397,Surface AWS,122,Closed,No,18.266032,-78.032264,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128503
+Williamsfield,0-388-604-78397,Surface AWS,31,Closed,No,17.94444444,-77.765,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126526
+Williamsfield,0-388-342-78397,Surface AWS,396,Closed,No,18.064752,-77.466258,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113143
+Williamsfield,0-388-854-78397,Surface AWS,76,Closed,No,18.32166667,-78.065,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128504
+Williamsfield,0-388-660-78397,Surface AWS,116,Closed,No,18.425,-77.855556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126788
+Williamsfield Nursery,0-388-343-78397,Surface AWS,427,Closed,No,18.07,-77.458333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113144
+Wilton,0-388-428-78397,Surface AWS,305,Closed,No,18.425,-77.379167,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118701
+Winchester,0-388-753-78397,Surface AWS,13,Closed,No,17.932943,-76.293128,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127785
+Windsor,0-388-605-78397,Surface AWS,152,Closed,No,18.172086,-77.698311,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126541
+Windsor,0-388-795-78397,Surface AWS,98,Closed,No,18.351229,-77.64831,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/128057
+Windsor,0-388-381-78397,Surface AWS,46,Closed,No,18.10611111,-76.452778,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/113846
+Windsor,0-388-59-78397,Surface AWS,21,Unknown,No,17.97388889,-76.973333,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110947
+Windsor Castle,0-388-708-78397,Surface AWS,533,Closed,No,18.26388889,-76.961111,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127375
+Windsor Lodge,0-388-209-78397,Surface AWS,37,Closed,No,17.91388889,-77.272222,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/112111
+Windsor Park,0-388-547-78397,Surface AWS,21,Closed,No,17.973772,-76.973248,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122140
+Woodford,0-388-28-78397,Surface AWS,789,Operational,No,18.068611,-76.745556,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110708
+Work Yard,0-388-429-78397,Surface AWS,12,Closed,No,18.406884,-77.116848,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/118702
+Worthy Park,0-388-60-78397,Surface AWS,375,Operational,No,18.14305556,-77.14916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/110954
+Worthy Park Met Stn,0-388-548-78397,Surface AWS,374,Closed,No,18.14305556,-77.14916667,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/122141
+Yallahs,0-388-754-78397,Surface AWS,5,Closed,No,17.881416,-76.593393,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/127786
+Yallahs,0-388-82-78397,Surface AWS,5,Closed,No,17.88259,-76.594469,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/111033
+Ys,0-388-606-78397,Surface AWS,27,Closed,No,18.1406,-77.826776,https://oscar.wmo.int/surface/#/search/station/stationReportDetails/126542
